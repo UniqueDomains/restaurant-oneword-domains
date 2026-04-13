@@ -72,14 +72,14 @@ print(df.head())
 | ace.restaurant      | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com            |
 | game.restaurant     | available | $29.99    | $83.99        | 120            | 50     | 4      | name.com            |
 | wise.restaurant     | resell    | —         | —             | 98             | 72     | 4      | GoDaddy.com, LLC    |
-| fast.restaurant     | premium   | $123.75   | $123.75       | 82             | 53     | 4      | name.com            |
+| fast.restaurant     | premium   | $123.75   | $123.75       | 82             | 52     | 4      | name.com            |
 | trade.restaurant    | available | $81.98    | —             | 116            | 46     | 5      | namecheap           |
 | the.restaurant      | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH           |
 | abc.restaurant      | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap           |
 | snap.restaurant     | available | $29.99    | $83.99        | 90             | 46     | 4      | name.com            |
 | data.restaurant     | resell    | —         | —             | 70             | 56     | 4      | GoDaddy.com, LLC    |
 | all.restaurant      | premium   | $82.50    | $82.50        | 88             | 50     | 3      | name.com            |
-| forge.restaurant    | available | $29.99    | $83.99        | 62             | 45     | 5      | name.com            |
+| forge.restaurant    | available | $29.99    | $83.99        | 62             | 44     | 5      | name.com            |
 | bot.restaurant      | resell    | —         | —             | 98             | 53     | 3      | Sav.com, LLC - 4    |
 | air.restaurant      | premium   | $128.70   | $128.70       | 84             | 49     | 3      | namecheap           |
 | wizard.restaurant   | available | $29.99    | $83.99        | 118            | 43     | 6      | name.com            |
