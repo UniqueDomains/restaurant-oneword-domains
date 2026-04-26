@@ -1,22 +1,22 @@
-# Available .RESTAURANT One-Word Domains (9,436)
+# Available .RESTAURANT One-Word Domains (11,919)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C436%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C436%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C919%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .restaurant one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .restaurant one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **11,919 domains** on the canonical page below.
 
-**Public extract:** 9,436 rows · **Live catalog:** 9,436 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,919 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/restaurant`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .RESTAURANT one-word d
 
 ### Files
 
-- `restaurant.csv` — public CSV extract (9,436 rows)
-- `restaurant.json` — public JSON extract (9,436 rows)
+- `restaurant.csv` — public CSV extract (1,000 rows)
+- `restaurant.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| zero.restaurant     | available | $29.99    | $83.99        | 112            | 53     | 4      | name.com            |
-| love.restaurant     | resell    | —         | —             | 86             | 99     | 4      | Spaceship, Inc.     |
-| sapphire.restaurant | premium   | $82.50    | —             | 86             | 63     | 8      | name.com            |
-| alpha.restaurant    | available | $29.99    | $83.99        | 90             | 53     | 5      | name.com            |
-| cat.restaurant      | resell    | —         | —             | 92             | 80     | 3      | united-domains GmbH |
-| ace.restaurant      | premium   | $123.75   | $123.75       | 88             | 57     | 3      | name.com            |
-| game.restaurant     | available | $29.99    | $83.99        | 120            | 50     | 4      | name.com            |
-| wise.restaurant     | resell    | —         | —             | 98             | 72     | 4      | GoDaddy.com, LLC    |
-| fast.restaurant     | premium   | $123.75   | $123.75       | 82             | 52     | 4      | name.com            |
-| trade.restaurant    | available | $81.98    | —             | 116            | 46     | 5      | namecheap           |
-| the.restaurant      | resell    | —         | —             | 98             | 58     | 3      | 1API GmbH           |
-| abc.restaurant      | premium   | $128.70   | $128.70       | 102            | 50     | 3      | namecheap           |
-| snap.restaurant     | available | $29.99    | $83.99        | 90             | 46     | 4      | name.com            |
-| data.restaurant     | resell    | —         | —             | 70             | 56     | 4      | GoDaddy.com, LLC    |
-| all.restaurant      | premium   | $82.50    | $82.50        | 88             | 50     | 3      | name.com            |
-| forge.restaurant    | available | $29.99    | $83.99        | 62             | 44     | 5      | name.com            |
-| bot.restaurant      | resell    | —         | —             | 98             | 53     | 3      | Sav.com, LLC - 4    |
-| air.restaurant      | premium   | $128.70   | $128.70       | 84             | 49     | 3      | namecheap           |
-| wizard.restaurant   | available | $29.99    | $83.99        | 118            | 43     | 6      | name.com            |
-| info.restaurant     | resell    | —         | —             | 80             | 53     | 4      | One.com A/S         |
+| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| Books.restaurant         | available | $81.98    | —             | 52             | 49     | 5      | namecheap        |
+| reservation.restaurant   | resell    | —         | —             | 65             | 19     | 11     | OVH SAS          |
+| events.restaurant        | premium   | $123.75   | —             | 68             | 37     | 6      | name.com         |
+| lets.restaurant          | available | $29.99    | —             | 77             | 39     | 4      | name.com         |
+| orders.restaurant        | resell    | —         | —             | 60             | 19     | 6      | GoDaddy.com, LLC |
+| rewards.restaurant       | premium   | $118.80   | $118.80       | 62             | 30     | 7      | namesilo         |
+| justin.restaurant        | available | $29.99    | —             | 58             | 38     | 7      | name.com         |
+| hightea.restaurant       | resell    | —         | —             | 76             | 8      | 8      | 1API GmbH        |
+| herbs.restaurant         | premium   | $123.75   | —             | 62             | 22     | 5      | name.com         |
+| payments.restaurant      | available | $29.99    | —             | 58             | 33     | 8      | name.com         |
+| takeout.restaurant       | premium   | $250      | —             | 75             | 16     | 8      | name.com         |
+| trends.restaurant        | available | $29.99    | —             | 60             | 32     | 6      | name.com         |
+| wines.restaurant         | premium   | $82.50    | —             | 63             | 16     | 5      | name.com         |
+| letsgo.restaurant        | available | $29.99    | —             | 57             | 31     | 7      | name.com         |
+| supplies.restaurant      | premium   | $123.75   | —             | 52             | 13     | 8      | name.com         |
+| maps.restaurant          | available | $29.99    | —             | 56             | 31     | 4      | name.com         |
+| HoChiMinhCity.restaurant | premium   | $78.54    | $78.54        | 64             | 7      | 16     | namesilo         |
+| spaces.restaurant        | available | $29.99    | —             | 54             | 30     | 6      | name.com         |
+| blocks.restaurant        | available | $29.99    | —             | 53             | 29     | 6      | name.com         |
+| Jim.restaurant           | available | $81.98    | —             | 78             | 28     | 3      | namecheap        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,436-row public sample | 9,436 live domains                               |
+| 1,000-row public sample | 11,919 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RESTAURANT One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RESTAURANT One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
