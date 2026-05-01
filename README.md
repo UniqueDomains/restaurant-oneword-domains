@@ -1,10 +1,10 @@
-# Available .RESTAURANT One-Word Domains (11,919)
+# Available .RESTAURANT One-Word Domains (12,364)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C919%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C364%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .restaurant one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,919 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,364 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,919 domains
+**Public extract:** 1,000 rows · **Live catalog:** 12,364 domains
 
-**Last updated:** 2026-04-26  
+**Last updated:** 2026-05-01  
 **Canonical page:** `https://unique.domains/domains/tld/restaurant`  
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
 | Books.restaurant         | available | $81.98    | —             | 52             | 49     | 5      | namecheap        |
 | reservation.restaurant   | resell    | —         | —             | 65             | 19     | 11     | OVH SAS          |
-| events.restaurant        | premium   | $123.75   | —             | 68             | 37     | 6      | name.com         |
+| rewards.restaurant       | premium   | $118.80   | $118.80       | 62             | 30     | 7      | namesilo         |
 | lets.restaurant          | available | $29.99    | —             | 77             | 39     | 4      | name.com         |
 | orders.restaurant        | resell    | —         | —             | 60             | 19     | 6      | GoDaddy.com, LLC |
-| rewards.restaurant       | premium   | $118.80   | $118.80       | 62             | 30     | 7      | namesilo         |
-| justin.restaurant        | available | $29.99    | —             | 58             | 38     | 7      | name.com         |
-| hightea.restaurant       | resell    | —         | —             | 76             | 8      | 8      | 1API GmbH        |
 | herbs.restaurant         | premium   | $123.75   | —             | 62             | 22     | 5      | name.com         |
-| payments.restaurant      | available | $29.99    | —             | 58             | 33     | 8      | name.com         |
-| takeout.restaurant       | premium   | $250      | —             | 75             | 16     | 8      | name.com         |
-| trends.restaurant        | available | $29.99    | —             | 60             | 32     | 6      | name.com         |
+| justin.restaurant        | available | $29.99    | —             | 58             | 38     | 7      | name.com         |
 | wines.restaurant         | premium   | $82.50    | —             | 63             | 16     | 5      | name.com         |
-| letsgo.restaurant        | available | $29.99    | —             | 57             | 31     | 7      | name.com         |
-| supplies.restaurant      | premium   | $123.75   | —             | 52             | 13     | 8      | name.com         |
-| maps.restaurant          | available | $29.99    | —             | 56             | 31     | 4      | name.com         |
+| payments.restaurant      | available | $29.99    | —             | 58             | 33     | 8      | name.com         |
 | HoChiMinhCity.restaurant | premium   | $78.54    | $78.54        | 64             | 7      | 16     | namesilo         |
+| trends.restaurant        | available | $29.99    | —             | 60             | 32     | 6      | name.com         |
+| letsgo.restaurant        | available | $29.99    | —             | 57             | 31     | 7      | name.com         |
+| maps.restaurant          | available | $29.99    | —             | 56             | 31     | 4      | name.com         |
+| slots.restaurant         | available | $29.99    | —             | 49             | 31     | 5      | name.com         |
 | spaces.restaurant        | available | $29.99    | —             | 54             | 30     | 6      | name.com         |
 | blocks.restaurant        | available | $29.99    | —             | 53             | 29     | 6      | name.com         |
 | Jim.restaurant           | available | $81.98    | —             | 78             | 28     | 3      | namecheap        |
+| dogs.restaurant          | available | $29.99    | —             | 76             | 28     | 4      | name.com         |
+| pages.restaurant         | available | $29.99    | —             | 52             | 28     | 5      | name.com         |
+| gods.restaurant          | available | $29.99    | —             | 72             | 27     | 4      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,919 live domains                              |
+| 1,000-row public sample | 12,364 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RESTAURANT One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RESTAURANT One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
