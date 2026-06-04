@@ -14,9 +14,9 @@ Daily-updated public extract of available and resale .restaurant one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,365 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,365 domains · **Median ask:** $35.54 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,365 domains · **Median ask:** $35.98 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/tld/restaurant`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| girls.restaurant         | available | $29.99    | —             | 83             | 23     | 5      | name.com         |
-| thing.restaurant         | available | $29.99    | —             | 84             | 26     | 5      | name.com         |
-| ladies.restaurant        | available | $29.99    | —             | 80             | 17     | 6      | name.com         |
-| barup.restaurant         | available | $29.99    | —             | 82             | 2      | 6      | name.com         |
-| edamame.restaurant       | available | $29.99    | —             | 80             | 9      | 7      | name.com         |
-| watches.restaurant       | available | $29.99    | —             | 84             | 19     | 7      | name.com         |
-| presents.restaurant      | available | $29.99    | —             | 80             | 9      | 8      | name.com         |
-| Books.restaurant         | available | $81.98    | —             | 52             | 49     | 5      | namecheap        |
-| reservation.restaurant   | resell    | —         | —             | 65             | 19     | 11     | OVH SAS          |
-| rewards.restaurant       | premium   | $118.80   | $118.80       | 62             | 30     | 7      | namesilo         |
-| lets.restaurant          | available | $29.99    | —             | 77             | 39     | 4      | name.com         |
-| orders.restaurant        | resell    | —         | —             | 60             | 19     | 6      | GoDaddy.com, LLC |
-| herbs.restaurant         | premium   | $123.75   | —             | 62             | 22     | 5      | name.com         |
-| justin.restaurant        | available | $29.99    | —             | 58             | 38     | 7      | name.com         |
-| wines.restaurant         | premium   | $82.50    | —             | 63             | 16     | 5      | name.com         |
-| payments.restaurant      | available | $29.99    | —             | 58             | 33     | 8      | name.com         |
-| HoChiMinhCity.restaurant | premium   | $78.54    | $78.54        | 64             | 7      | 16     | namesilo         |
-| trends.restaurant        | available | $29.99    | —             | 60             | 32     | 6      | name.com         |
-| letsgo.restaurant        | available | $29.99    | —             | 57             | 31     | 7      | name.com         |
-| maps.restaurant          | available | $29.99    | —             | 56             | 31     | 4      | name.com         |
+| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| discard.restaurant    | available | $29.99    | —             | 88             | 7      | 7      | name.com  |
+| regret.restaurant     | available | $29.99    | —             | 84             | 11     | 6      | name.com  |
+| Uber.restaurant       | premium   | —         | —             | 106            | 29     | 4      | —         |
+| sportsbar.restaurant  | available | $29.99    | —             | 80             | 8      | 10     | name.com  |
+| involve.restaurant    | available | $29.99    | —             | 80             | 13     | 7      | name.com  |
+| nonstop.restaurant    | available | $29.99    | —             | 98             | 28     | 7      | name.com  |
+| pacific.restaurant    | available | $29.99    | —             | 98             | 29     | 7      | name.com  |
+| change.restaurant     | available | $29.99    | —             | 100            | 41     | 6      | name.com  |
+| Eddie.restaurant      | available | $29.99    | —             | 82             | 23     | 5      | name.com  |
+| animate.restaurant    | available | $29.99    | —             | 88             | 17     | 7      | name.com  |
+| punch.restaurant      | available | $29.99    | —             | 87             | 25     | 5      | name.com  |
+| mail.restaurant       | available | $29.99    | —             | 94             | 60     | 4      | name.com  |
+| pinch.restaurant      | available | $29.99    | —             | 98             | 18     | 5      | name.com  |
+| asking.restaurant     | available | $29.99    | —             | 86             | 11     | 6      | name.com  |
+| remain.restaurant     | available | $29.99    | —             | 84             | 11     | 6      | name.com  |
+| midJanuary.restaurant | available | $29.99    | —             | 98             | 1      | 11     | name.com  |
+| touching.restaurant   | premium   | —         | —             | 88             | 5      | 8      | —         |
+| hardly.restaurant     | available | $29.99    | —             | 92             | 6      | 6      | name.com  |
+| abrupt.restaurant     | available | $19.99    | $78.99        | 100            | 4      | 6      | name.com  |
+| campus.restaurant     | available | $29.99    | —             | 81             | 37     | 6      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RESTAURANT One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RESTAURANT One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
