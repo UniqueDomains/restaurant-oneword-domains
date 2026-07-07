@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .restaurant one-word domain
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,365 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,365 domains · **Median ask:** $35.98 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,365 domains · **Median ask:** $35.81 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/tld/restaurant`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/restaurant`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .RESTAURANT one-word d
 
 ### Files
 
-- `restaurant.csv` — public CSV extract (1,000 rows)
-- `restaurant.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `restaurant.csv`, public CSV extract (1,000 rows)
+- `restaurant.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain                | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| --------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| discard.restaurant    | available | $29.99    | —             | 88             | 7      | 7      | name.com  |
-| regret.restaurant     | available | $29.99    | —             | 84             | 11     | 6      | name.com  |
-| Uber.restaurant       | premium   | —         | —             | 106            | 29     | 4      | —         |
-| sportsbar.restaurant  | available | $29.99    | —             | 80             | 8      | 10     | name.com  |
-| involve.restaurant    | available | $29.99    | —             | 80             | 13     | 7      | name.com  |
-| nonstop.restaurant    | available | $29.99    | —             | 98             | 28     | 7      | name.com  |
-| pacific.restaurant    | available | $29.99    | —             | 98             | 29     | 7      | name.com  |
-| change.restaurant     | available | $29.99    | —             | 100            | 41     | 6      | name.com  |
-| Eddie.restaurant      | available | $29.99    | —             | 82             | 23     | 5      | name.com  |
-| animate.restaurant    | available | $29.99    | —             | 88             | 17     | 7      | name.com  |
-| punch.restaurant      | available | $29.99    | —             | 87             | 25     | 5      | name.com  |
-| mail.restaurant       | available | $29.99    | —             | 94             | 60     | 4      | name.com  |
-| pinch.restaurant      | available | $29.99    | —             | 98             | 18     | 5      | name.com  |
-| asking.restaurant     | available | $29.99    | —             | 86             | 11     | 6      | name.com  |
-| remain.restaurant     | available | $29.99    | —             | 84             | 11     | 6      | name.com  |
-| midJanuary.restaurant | available | $29.99    | —             | 98             | 1      | 11     | name.com  |
-| touching.restaurant   | premium   | —         | —             | 88             | 5      | 8      | —         |
-| hardly.restaurant     | available | $29.99    | —             | 92             | 6      | 6      | name.com  |
-| abrupt.restaurant     | available | $19.99    | $78.99        | 100            | 4      | 6      | name.com  |
-| campus.restaurant     | available | $29.99    | —             | 81             | 37     | 6      | name.com  |
+| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| bae.restaurant  | available | $29.99    | —             | high           | low    | 3      | name.com            |
+| cat.restaurant  | resell    | —         | —             | high           | high   | 3      | united-domains GmbH |
+| boo.restaurant  | premium   | $123.75   | —             | high           | low    | 3      | name.com            |
+| BJP.restaurant  | available | $29.99    | —             | medium         | low    | 3      | name.com            |
+| tap.restaurant  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC    |
+| fog.restaurant  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
+| bow.restaurant  | available | $29.99    | —             | high           | low    | 3      | name.com            |
+| the.restaurant  | resell    | —         | —             | high           | medium | 3      | 1API GmbH           |
+| its.restaurant  | premium   | $242      | $242          | high           | medium | 3      | namesilo            |
+| bra.restaurant  | available | $29.99    | —             | medium         | low    | 3      | name.com            |
+| wise.restaurant | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC    |
+| lip.restaurant  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo            |
+| cap.restaurant  | available | $29.99    | —             | high           | low    | 3      | name.com            |
+| tug.restaurant  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
+| con.restaurant  | available | $29.99    | —             | high           | low    | 3      | name.com            |
+| yes.restaurant  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo            |
+| dye.restaurant  | available | $29.99    | —             | medium         | low    | 3      | name.com            |
+| date.restaurant | premium   | $123.75   | —             | high           | low    | 4      | name.com            |
+| err.restaurant  | available | $29.99    | —             | high           | low    | 3      | name.com            |
+| list.restaurant | premium   | $118.80   | $118.80       | high           | low    | 4      | namesilo            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely made up of one-word .restaurant domains, which makes it narrow in extension but varied in naming style. Some names are literal and category-linked, while others are broader words that may depend more on branding strength than exact-match relevance. Examples such as Acup.restaurant, jewels.restaurant, ladies.restaurant, and geton.restaurant show the spread from descriptive to abstract. When comparing these domains, focus on whether the word is easy to say, easy to spell, and clearly usable for a restaurant brand. Also weigh the median ask of 35.54 against the long-term value of the exact word, since niche extensions can be memorable but may need stronger word quality to justify ownership.
+This set covers 12,365 one-word domain names built on the .restaurant extension, ranging from generic dictionary words to hospitality-adjacent terms. With a median ask of $35.81, most names in this list are accessible enough to test brand fit before committing. Some, like pierogi.restaurant or chaitea.restaurant, lean directly into food and drink themes, while others such as hightech.restaurant or primarycare.restaurant show how the extension is being used outside traditional dining contexts. Whether the goal is securing a name for resale or launching a hospitality brand, comparing asking price against renewal cost and word strength is the fastest way to separate a strong pick from a weak one.
 
-- All names in this selection use the .restaurant extension
-- The set includes 12,366 one-word domains
-- Median ask across this selection is 35.54
-- Prioritize clear words with strong restaurant relevance
+- 12,365 one-word .restaurant domains span food and non-food sectors
+- Median ask of $35.81 keeps entry pricing accessible for most buyers
+- Sample names include hightech, chaitea, and pierogi.restaurant
+- Compare renewal cost and brandability before choosing a name
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RESTAURANT One-Word Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RESTAURANT One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
