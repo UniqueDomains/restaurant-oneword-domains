@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .restaurant one-word domain
 
 **Public extract:** 1,000 rows · **Live catalog:** 27,199 domains · **Median ask:** $21.64 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/restaurant`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
-| --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
-| ape.restaurant  | available | $11.98    | $81.98        | medium         | low    | 3      | namecheap           |
-| cat.restaurant  | resell    | —         | —             | high           | high   | 3      | united-domains GmbH |
-| bay.restaurant  | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo            |
-| bae.restaurant  | available | $29.99    | —             | high           | low    | 3      | name.com            |
-| tap.restaurant  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC    |
-| boo.restaurant  | premium   | $123.75   | —             | high           | low    | 3      | name.com            |
-| BJP.restaurant  | available | $29.99    | —             | medium         | low    | 3      | name.com            |
-| the.restaurant  | resell    | —         | —             | high           | medium | 3      | 1API GmbH           |
-| fog.restaurant  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
-| bow.restaurant  | available | $29.99    | —             | high           | low    | 3      | name.com            |
-| wise.restaurant | resell    | —         | —             | high           | high   | 4      | GoDaddy.com, LLC    |
-| its.restaurant  | premium   | $242      | $242          | high           | medium | 3      | namesilo            |
-| bra.restaurant  | available | $29.99    | —             | medium         | low    | 3      | name.com            |
-| lip.restaurant  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo            |
-| cap.restaurant  | available | $29.99    | —             | high           | low    | 3      | name.com            |
-| tug.restaurant  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
-| con.restaurant  | available | $29.99    | —             | high           | low    | 3      | name.com            |
-| xxx.restaurant  | premium   | $242      | $242          | low            | medium | 3      | namesilo            |
-| dye.restaurant  | available | $29.99    | —             | medium         | low    | 3      | name.com            |
-| yes.restaurant  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo            |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar           |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------- |
+| ape.restaurant     | available | $11.98    | $81.98        | medium         | low    | 3      | namecheap           |
+| cat.restaurant     | resell    | —         | —             | high           | high   | 3      | united-domains GmbH |
+| bay.restaurant     | premium   | $118.80   | $118.80       | low            | low    | 3      | namesilo            |
+| bae.restaurant     | available | $29.99    | —             | high           | low    | 3      | name.com            |
+| tap.restaurant     | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC    |
+| boo.restaurant     | premium   | $123.75   | —             | high           | low    | 3      | name.com            |
+| bjp.restaurant     | available | $29.99    | —             | medium         | low    | 3      | name.com            |
+| network.restaurant | resell    | —         | —             | low            | low    | 7      | —                   |
+| fog.restaurant     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
+| bow.restaurant     | available | $29.99    | —             | high           | low    | 3      | name.com            |
+| its.restaurant     | premium   | $242      | $242          | high           | medium | 3      | namesilo            |
+| bra.restaurant     | available | $29.99    | —             | medium         | low    | 3      | name.com            |
+| lip.restaurant     | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo            |
+| cap.restaurant     | available | $29.99    | —             | high           | low    | 3      | name.com            |
+| tug.restaurant     | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo            |
+| con.restaurant     | available | $29.99    | —             | high           | low    | 3      | name.com            |
+| xxx.restaurant     | premium   | $242      | $242          | low            | medium | 3      | namesilo            |
+| dye.restaurant     | available | $29.99    | —             | medium         | low    | 3      | name.com            |
+| yes.restaurant     | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo            |
+| err.restaurant     | available | $29.99    | —             | high           | low    | 3      | name.com            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .RESTAURANT One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .RESTAURANT One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
