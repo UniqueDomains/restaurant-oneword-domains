@@ -19,7 +19,7 @@ ca5d0994-270b-4d25-9744-a0761b4bb9a9,diskspace.restaurant,available,29.99,,high,
 66099707-378e-45b6-b4db-ae82969c569b,consultive.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
 696fa6bb-31f1-4210-840e-af2658b4c4f8,apophatic.restaurant,available,11.98,81.98,low,low,9,namecheap,,,06/08/2026 02:27
 9e9a2030-257e-44b0-9563-a5918c93b99b,basement.restaurant,available,29.99,,medium,low,8,name.com,,,
-4441a1f2-d9c0-45bf-9890-204f2c870260,nonstop.restaurant,available,29.99,,high,low,7,name.com,,,
+4441a1f2-d9c0-45bf-9890-204f2c870260,nonstop.restaurant,available,20.99,64.99,medium,low,7,namesilo,,,22/09/2026 08:07
 4b0bbee5-7755-4ee3-85ea-3a06c69c126e,aldehydic.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
 d970c718-2853-4d0e-883d-d29a1432b0ff,rheumy.restaurant,available,11.98,81.98,low,low,6,namecheap,,,06/08/2026 23:15
 dcc284fe-8cde-4f72-a043-8caedb14f295,aspectual.restaurant,available,11.98,81.98,low,low,9,namecheap,,,07/08/2026 04:41
@@ -28,17 +28,17 @@ d1776012-4f52-4d6e-a26d-a1d9a9a9175c,acceptive.restaurant,available,11.98,81.98,
 d21e0199-fa8c-4068-b14a-59f86ebd25d0,pacific.restaurant,available,29.99,,high,low,7,name.com,,,
 bea38871-ab7e-4b4f-ae2f-e290527f55ab,folicacid.restaurant,available,29.99,,high,low,10,name.com,,,
 7013282f-87e4-4418-a9f1-995cc8d42450,polythene.restaurant,available,29.99,,medium,low,9,name.com,,,
-6c2593dc-dfdf-4993-9816-a492b12a2f28,cross.restaurant,available,29.99,,high,low,5,name.com,,,
+6c2593dc-dfdf-4993-9816-a492b12a2f28,cross.restaurant,available,20.99,64.99,low,low,5,namesilo,,,22/09/2026 16:13
 6dbea145-dd9c-4d22-9a97-28445a8f5de7,papal.restaurant,available,11.98,81.98,low,low,5,namecheap,,,06/08/2026 04:09
 439444b3-3722-48db-9936-8a63d9bb287a,change.restaurant,available,29.99,,high,medium,6,name.com,,,
 86d193d2-2ee3-411b-bf2a-f283a97d2ac6,hungry.restaurant,available,29.99,,high,low,6,name.com,,,
 01b93930-e424-4638-ae88-39ca62c4eb06,light.restaurant,premium,242,242,medium,low,5,namesilo,,,
 bb7b3429-3642-4ba6-90aa-543fc9328eef,eddie.restaurant,available,29.99,,high,low,5,name.com,,,
 9d850f35-f5c2-4340-bc96-3a1178f50ad7,anumberof.restaurant,available,29.99,,medium,low,11,name.com,,,
-7ec87fb0-ff39-4c5f-b143-d42c4c5e6870,animate.restaurant,available,29.99,,high,low,7,name.com,,,
+7ec87fb0-ff39-4c5f-b143-d42c4c5e6870,animate.restaurant,available,20.99,64.99,medium,low,7,namesilo,,,22/09/2026 04:47
 95b3071c-5944-45f5-8ab8-0271336d3ca0,punch.restaurant,available,29.99,,high,low,5,name.com,,,
 a40bb958-684b-4afc-856d-180cb93e4bf0,unshakable.restaurant,available,29.99,,high,low,10,name.com,,,
-f8e140ca-2364-400c-93fd-1f9f0d2b0dd2,mail.restaurant,available,20.99,64.99,medium,low,4,namesilo,,,19/09/2026 05:07
+f8e140ca-2364-400c-93fd-1f9f0d2b0dd2,mail.restaurant,available,20.99,64.99,medium,low,4,namesilo,,,23/09/2026 04:59
 2c54cac8-9e4e-4734-a3be-a813bcc1d8ef,beon.restaurant,available,29.99,,high,low,5,name.com,,,
 a3f1a883-78d5-483d-8ddb-1ceec44d103a,harrowing.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
 f527db54-b81b-464a-9296-384c0784a69c,peacock.restaurant,available,,,medium,low,7,,,,
@@ -49,7 +49,7 @@ c00ac413-4dfb-4d31-9756-cdb5036f2974,archeozoic.restaurant,available,11.98,81.98
 bcda6452-8eb8-42d2-a055-548e6c424aa7,sugar.restaurant,available,29.99,,high,low,5,name.com,,,
 cbbd0862-1725-420c-87be-dde454e1a9a4,pinch.restaurant,available,29.99,,high,low,5,name.com,,,
 f4ab5e16-391f-4745-a931-493caaa1f249,marihuana.restaurant,available,29.99,,medium,low,9,name.com,,,
-b87fbbe7-5698-49fb-b327-d70fcc4ee332,terrible.restaurant,available,29.99,,high,low,8,name.com,,,
+b87fbbe7-5698-49fb-b327-d70fcc4ee332,terrible.restaurant,available,20.99,64.99,low,low,8,namesilo,,,22/09/2026 15:19
 45141e78-6f52-4635-a6c4-1089f1da2b8b,asking.restaurant,available,29.99,,high,low,6,name.com,,,
 230ef1f7-40ef-47b1-955e-55efb713bee9,remain.restaurant,available,29.99,,high,low,6,name.com,,,
 1228d210-ba48-4c52-ae72-440c58dbf7a1,antimonic.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
@@ -83,7 +83,7 @@ b6326f61-aba3-473b-b75d-aafa2fdc234e,communal.restaurant,available,29.99,,medium
 dd989838-a0ca-4516-a0b2-9955de574e6e,lobby.restaurant,available,29.99,,high,low,5,name.com,,,
 b1522112-a18e-4da1-a36e-8087f5bc74ed,alleviated.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
 5fcf78e8-9611-4495-8508-f85084f83ce4,hackneyed.restaurant,available,11.98,81.98,low,low,9,namecheap,,,08/08/2026 10:56
-984f1dc6-fee3-464e-8a05-c16ffff6095d,accepting.restaurant,available,29.99,83.99,high,low,9,name.com,,,
+984f1dc6-fee3-464e-8a05-c16ffff6095d,accepting.restaurant,available,20.99,64.99,medium,low,9,namesilo,,,21/09/2026 15:33
 d4a51504-d971-44ef-86d5-a6085ddc9eef,shakespeare.restaurant,available,29.99,,high,low,11,name.com,,,
 d46f569a-f031-46d7-8036-1f63b19b76e9,alias.restaurant,available,29.99,,high,low,5,name.com,,,
 b19e52e4-694e-4184-bca3-38dc732be8f3,pertinent.restaurant,available,11.98,81.98,low,low,9,namecheap,,,06/08/2026 07:59
@@ -91,7 +91,7 @@ b19e52e4-694e-4184-bca3-38dc732be8f3,pertinent.restaurant,available,11.98,81.98,
 1c547b74-daf9-4bd7-832a-00ac7de08875,hotsauce.restaurant,available,29.99,,high,low,9,name.com,,,
 75ca6b28-716b-484d-8094-b92d24135323,overhang.restaurant,available,11.98,81.98,low,low,8,namecheap,,,09/08/2026 08:28
 048b28e2-6131-4411-b0fb-beb0a06c53fe,teamup.restaurant,available,29.99,,high,low,7,name.com,,,
-3e5abba2-5568-4de6-924e-f02a76c2aee3,agreeable.restaurant,available,29.99,83.99,high,low,9,name.com,,,
+3e5abba2-5568-4de6-924e-f02a76c2aee3,agreeable.restaurant,available,20.99,64.99,medium,low,9,namesilo,,,21/09/2026 23:17
 aacf5fe4-9393-4668-9fa3-8bd4d25afdf3,onethird.restaurant,available,11.98,81.98,low,low,9,namecheap,,,11/09/2026 13:44
 ed0c6454-ed79-4978-af94-bb6364eaec64,gobackintime.restaurant,available,29.99,,high,low,15,name.com,,,
 cdeb1153-afc1-46ec-a757-4cd82966993f,probably.restaurant,available,29.99,,medium,low,8,name.com,,,
@@ -99,7 +99,7 @@ ba91a221-f632-4851-a13c-c47fe51a2c71,digitalcamera.restaurant,available,29.99,,h
 1d6ad3b0-1dbd-4ec1-81e7-ed651c7a677e,jimmy.restaurant,available,29.99,,high,low,5,name.com,,,
 060ea94d-90fd-4060-be6b-91f995948b71,mixedgrill.restaurant,available,29.99,,high,low,11,name.com,,,
 7c647a64-3a1b-49fd-9cbe-bdf51e6a516c,adidas.restaurant,available,29.99,,high,low,6,name.com,,,
-25adff68-3fc3-4578-88bc-17ce93c06529,abovecited.restaurant,available,29.99,,medium,low,11,name.com,,,
+25adff68-3fc3-4578-88bc-17ce93c06529,abovecited.restaurant,available,29.99,,low,low,11,name.com,,,
 3dae9fed-53fb-40b9-83c5-ed447ae2708c,eating.restaurant,available,11.98,81.98,medium,low,6,namecheap,,,08/09/2026 13:35
 21dce077-bf83-4ef5-a7bb-e25e7b7ee288,bankholiday.restaurant,available,29.99,,high,low,12,name.com,,,
 6d434b32-887f-4ab0-ad0c-7fb8ea956398,conduction.restaurant,available,29.99,,high,low,10,name.com,,,
@@ -131,11 +131,11 @@ ee3b8f14-75cd-4845-b168-e7bd07a0cee5,swastika.restaurant,available,29.99,,medium
 e9a6f14e-3268-41d9-a610-11c10517f63d,actinon.restaurant,available,11.98,81.98,low,low,7,namecheap,,,
 c227b427-815b-4bb9-89d2-a8ca7018c0b3,riding.restaurant,available,29.99,,high,low,6,name.com,,,
 1e7c964d-e89d-4230-80d6-451eda4fd11f,progressive.restaurant,available,20.99,64.99,medium,low,11,namesilo,,,19/09/2026 14:06
-73af9220-759a-4c8a-ab66-b02776956072,blonde.restaurant,available,29.99,,high,low,6,name.com,,,
+73af9220-759a-4c8a-ab66-b02776956072,blonde.restaurant,available,20.99,64.99,medium,low,6,namesilo,,,22/09/2026 22:17
 6219ea95-a1e8-436e-a7e2-39d4550f91fd,velocity.restaurant,available,29.99,,high,low,8,name.com,,,
 79c6f8ce-9890-4e46-bf46-1ba9ed55065f,lettertelegram.restaurant,available,29.99,,medium,low,15,name.com,,,
 3b3e1315-b481-44c0-a7c0-be5bb253bdd4,group.restaurant,available,29.99,,high,low,5,name.com,,,
-5eb8826b-fc1a-4489-91f9-a0526503113e,eighteen.restaurant,available,29.99,83.99,high,low,8,name.com,,,
+5eb8826b-fc1a-4489-91f9-a0526503113e,eighteen.restaurant,available,20.99,64.99,medium,low,8,namesilo,,,21/09/2026 11:58
 910deb19-cdad-47b4-95a7-f2e4b27e8068,ameboid.restaurant,available,11.98,81.98,low,low,7,namecheap,,,
 1fbf6770-9060-45e5-a70f-f2b29356b26d,nowwhat.restaurant,available,29.99,,low,low,8,name.com,,,
 dbfffd5d-b818-4610-a278-fef112e25ab6,carryout.restaurant,available,29.99,,high,low,9,name.com,,,
@@ -146,12 +146,12 @@ f4b5bc59-2036-45c6-991a-0d1c087c98f9,began.restaurant,available,29.99,,medium,lo
 6fe7fff7-5d70-4efe-8ac8-1e1e078c7d47,commoncold.restaurant,available,29.99,,medium,low,11,name.com,,,
 0b8f4e7b-ee3d-4a44-92d2-b0395fa2a696,delicious.restaurant,premium,500,500,high,low,9,name.com,,,
 429c3844-519b-4576-9579-ac4f86ba7546,nipping.restaurant,available,11.98,81.98,low,low,7,namecheap,,,08/08/2026 16:46
-8a7b26c5-1cf1-4160-986b-d47eaa332aa6,prenuptial.restaurant,available,29.99,,high,low,10,name.com,,,
+8a7b26c5-1cf1-4160-986b-d47eaa332aa6,prenuptial.restaurant,available,20.99,64.99,medium,low,10,namesilo,,,22/09/2026 06:05
 97ceda4f-c10e-460e-b44c-b8d378ee033d,stroke.restaurant,available,29.99,,high,low,6,name.com,,,
 3e9dbfa7-a7c6-4437-a1b5-c5f2daee8465,sixtynine.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
 0a8e333a-f930-49e2-a797-e61b8bc6f8e6,assure.restaurant,available,29.99,,high,low,6,name.com,,,
 0ddcd5dc-ebb5-4c74-aa55-e5f240274594,themasses.restaurant,available,29.99,,low,low,10,name.com,,,
-2f9f4945-a326-4a92-b1bf-ef6641a30d2f,fearless.restaurant,available,29.99,,high,low,8,name.com,,,
+2f9f4945-a326-4a92-b1bf-ef6641a30d2f,fearless.restaurant,available,20.99,64.99,medium,low,8,namesilo,,,22/09/2026 12:19
 94eb4ab6-5cae-4b85-854c-37037cce6ce6,bantering.restaurant,available,11.98,81.98,low,low,9,namecheap,,,08/08/2026 14:34
 9d2cc53b-b423-47ac-b2d6-9da336c30779,sealed.restaurant,available,29.99,,medium,low,6,name.com,,,
 bf74240a-8ffd-49be-b85e-b2687076e0e0,effect.restaurant,available,29.99,,high,low,6,name.com,,,
@@ -185,7 +185,7 @@ da5262e7-131d-4493-bd1e-15313bdaa0bd,letgo.restaurant,available,29.99,,high,low,
 40a52208-4548-40c6-99cc-c5c5a1e34538,comedian.restaurant,available,29.99,,high,low,8,name.com,,,
 f54c18d4-6674-4fad-a999-d2c6d302218e,patriotic.restaurant,available,29.99,,high,low,9,name.com,,,
 47f2de11-8a6c-4ac6-b254-02d1279cfae8,artesian.restaurant,available,11.98,81.98,low,low,8,namecheap,,,06/08/2026 22:39
-c1526549-a388-4593-a340-790af0eea1da,accomplished.restaurant,available,29.99,,high,low,12,name.com,,,
+c1526549-a388-4593-a340-790af0eea1da,accomplished.restaurant,available,29.99,,medium,low,12,name.com,,,
 982d9f29-6194-40d0-8253-e581f07c2e9d,cheerfully.restaurant,available,29.99,,high,low,10,name.com,,,
 4bef7c0d-e63c-4f13-ac03-a21ea000c6e2,canoe.restaurant,available,29.99,,high,low,5,name.com,,,
 ff92b1d3-c60b-44a2-9202-29d3170c570c,batup.restaurant,available,29.99,,medium,low,6,name.com,,,
@@ -221,7 +221,7 @@ acf27456-5dfe-471b-8e73-02b24e1e6592,tohellwith.restaurant,available,29.99,,low,
 be9f5132-cbc8-4482-888e-85a232df2763,communist.restaurant,available,29.99,83.99,high,low,9,name.com,,,
 9d624314-9552-4e2b-b40f-8900a47778c1,aquaphobic.restaurant,available,11.98,81.98,low,low,10,namecheap,,,06/08/2026 10:40
 ebc6abd1-1716-4618-9635-042947e55e58,wonderfully.restaurant,available,29.99,,medium,low,11,name.com,,,
-938870a4-50c0-47bd-bc6e-95c6d69983d4,blink.restaurant,premium,500,,high,medium,5,name.com,,,
+938870a4-50c0-47bd-bc6e-95c6d69983d4,blink.restaurant,premium,512,512,medium,low,5,namesilo,,,22/09/2026 22:02
 c6a20eff-a04a-4e8c-a8f3-d5106ead5653,duchess.restaurant,available,29.99,,high,low,7,name.com,,,
 6be67524-d617-46a7-b4e7-b209764ef1b3,courtroom.restaurant,available,29.99,,medium,low,9,name.com,,,
 580d3e90-002d-4663-8cdf-2ba3b63ac6b3,onschedule.restaurant,available,29.99,,high,low,11,name.com,,,
@@ -249,11 +249,11 @@ df91e7bb-31c8-4da4-8e54-fa11b71c4053,connection.restaurant,available,29.99,,medi
 2403afa8-a828-46e7-a0cc-cfb549395d3f,flaring.restaurant,available,11.98,81.98,low,low,7,namecheap,,,
 ef02a5d2-2c2f-4c1d-aa37-afe5e48ff7f9,middleages.restaurant,available,29.99,,medium,low,11,name.com,,,
 a2982869-e0d7-465d-8fa3-001153202c82,wonder.restaurant,available,29.99,,high,medium,6,name.com,,,
-54b4692c-d717-4c95-aef9-635fc2f3b7dc,learning.restaurant,available,20.99,64.99,medium,low,8,namesilo,,,19/09/2026 05:11
+54b4692c-d717-4c95-aef9-635fc2f3b7dc,learning.restaurant,available,20.99,64.99,medium,low,8,namesilo,,,23/09/2026 03:00
 86701e0c-ba13-4b4d-a741-24c0edc7fccf,sounding.restaurant,available,29.99,,high,low,8,name.com,,,
 95af09dc-6c3d-4850-bcad-735a9a2ef4d8,onebyone.restaurant,available,29.99,,medium,low,10,name.com,,,
 50466590-1481-499b-a28f-7ea11f66a078,irons.restaurant,available,29.99,,medium,low,5,name.com,,,
-c73ffeec-57df-4275-9519-256b3fc0cfd1,marchon.restaurant,available,29.99,83.99,medium,low,8,name.com,,,
+c73ffeec-57df-4275-9519-256b3fc0cfd1,marchon.restaurant,available,11.98,81.98,low,low,8,namecheap,,,21/09/2026 20:39
 1854d523-4d9b-4b0b-bf05-0ee781337a35,younger.restaurant,available,29.99,,high,low,7,name.com,,,
 e7217c03-886d-419e-b532-8784ad3d1e34,angered.restaurant,available,11.98,81.98,low,low,7,namecheap,,,
 c74f293b-6951-4f35-9716-0395478af2d3,noticed.restaurant,available,29.99,,high,low,7,name.com,,,
@@ -273,13 +273,13 @@ f7cc1c88-46a6-4d03-a730-fee29b9dbea1,computerliterate.restaurant,available,29.99
 355eeccb-4402-42e9-8fe6-9eb6dbb756b1,identified.restaurant,available,29.99,,medium,low,10,name.com,,,
 31500a96-f270-439b-bf08-c06f58ee9664,response.restaurant,available,29.99,,high,low,8,name.com,,,
 ea3db831-508f-4ff7-a528-3deff8e81bf2,skyblue.restaurant,available,11.98,81.98,medium,low,8,namecheap,,,08/08/2026 03:14
-438925ac-9e86-4146-97d6-c811769fd4a2,moveon.restaurant,available,20.99,64.99,low,low,7,namesilo,,,16/09/2026 16:07
+438925ac-9e86-4146-97d6-c811769fd4a2,moveon.restaurant,available,11.98,81.98,low,low,7,namecheap,,,21/09/2026 20:34
 5c392953-0879-419d-82af-a3061ecb8b2e,implied.restaurant,available,29.99,,high,low,7,name.com,,,
 6a4e4f29-15de-4710-afeb-9f98bf427a2c,waterless.restaurant,available,11.98,81.98,low,low,9,namecheap,,,06/08/2026 19:03
 bfbbb44f-73dd-4de4-b6bc-bd481808a8cb,referable.restaurant,available,11.98,81.98,low,low,9,namecheap,,,07/08/2026 01:28
 4742b44b-0017-4310-9808-cc135ac64b19,fiftyfifty.restaurant,available,29.99,,high,low,11,name.com,,,
 d43cfb8c-91f7-436a-808c-a3d8ff351cb8,obtained.restaurant,available,29.99,,low,low,8,name.com,,,
-ac9f351b-21fb-4c0c-9484-76d34497c964,balanced.restaurant,available,29.99,,high,low,8,name.com,,,
+ac9f351b-21fb-4c0c-9484-76d34497c964,balanced.restaurant,available,20.99,64.99,medium,low,8,namesilo,,,22/09/2026 16:28
 e3cb00ae-c8f4-481c-a296-709e7a5b5590,synchronise.restaurant,available,29.99,,high,low,11,name.com,,,
 5c48d786-a135-48c8-8ed2-c2a0a1e7f67d,makeover.restaurant,available,29.99,,high,low,9,name.com,,,
 c1bb6495-91bd-4efe-9f38-8ebd479da083,using.restaurant,available,29.99,,high,low,5,name.com,,,
@@ -297,7 +297,7 @@ bf5f9da2-bd77-4b4f-9e69-d6aadae94422,providingthat.restaurant,available,29.99,,m
 ce2422b3-bdcf-4de5-95b8-6f082516f346,cognizant.restaurant,available,11.98,81.98,low,low,9,namecheap,,,08/08/2026 00:13
 261d9749-9ab1-42fb-90b0-6e01d3f02d57,rideshare.restaurant,available,29.99,,high,low,9,name.com,,,
 796eaa1e-7861-47ce-8a32-2e41cc0a204d,bankmachine.restaurant,available,29.99,,medium,low,12,name.com,,,
-9a7e11a1-a831-4b67-bcf3-0913a9e970b7,terribly.restaurant,available,29.99,,medium,low,8,name.com,,,
+9a7e11a1-a831-4b67-bcf3-0913a9e970b7,terribly.restaurant,available,20.99,64.99,low,low,8,namesilo,,,22/09/2026 15:23
 3f33d17e-4d59-458a-89fb-027c19155f4c,adjacent.restaurant,available,11.98,81.98,low,low,8,namecheap,,,
 ad8f9b1b-df60-4c7e-b797-18567943685d,drivinglicense.restaurant,available,29.99,,high,low,15,name.com,,,
 55f27c0f-4ed9-4efa-8999-094cbce662ed,aerobiotic.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
@@ -314,21 +314,21 @@ e440a666-5092-41bd-a069-61c242a12736,industrialize.restaurant,available,29.99,,m
 caa7d4aa-c721-45f8-9773-cedc8646fde9,elsalvador.restaurant,available,,,medium,low,11,,,,
 2e758835-3347-4c2c-89e3-93195ace2301,giveout.restaurant,available,29.99,,medium,low,8,name.com,,,
 144ce0ac-46ed-454b-b067-a63f26073dd0,howgoesthebattle.restaurant,available,29.99,,medium,low,19,name.com,,,
-3f00d904-fccf-4ccd-a9dd-1a89d3993a94,acidreflux.restaurant,available,29.99,,medium,low,11,name.com,,,
+3f00d904-fccf-4ccd-a9dd-1a89d3993a94,acidreflux.restaurant,available,29.99,,low,low,11,name.com,,,
 678dc562-4e39-4193-8b4d-aca646ab824e,perch.restaurant,available,11.98,81.98,low,low,5,namecheap,,,
 be3cefa6-6850-45cf-8c35-6a493fc3bff3,comical.restaurant,available,29.99,,high,low,7,name.com,,,
 63a59333-6528-4477-a583-e253874241e0,wikileaks.restaurant,available,29.99,,low,low,9,name.com,,,
-adae4ed9-7b6b-4ede-8168-353eb6d6ce99,aboutship.restaurant,available,29.99,,high,low,10,name.com,,,
+adae4ed9-7b6b-4ede-8168-353eb6d6ce99,aboutship.restaurant,available,29.99,,medium,low,10,name.com,,,
 f656eec7-2644-45b2-9497-cbb57547be0f,muffincup.restaurant,available,29.99,,high,low,10,name.com,,,
 ccc6e178-88ea-4171-91d5-6a367a4450f2,stricken.restaurant,available,11.98,81.98,low,low,8,namecheap,,,
 89bf788d-f7fe-455e-9b04-069c7ff54438,vinegarish.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
 c60a69d3-0033-4d52-9d85-84af22ce5829,desire.restaurant,available,11.98,81.98,medium,low,6,namecheap,,,19/09/2026 18:10
 d64c31b3-01b5-4ae8-b4ac-6507d7675422,atlarge.restaurant,available,11.98,81.98,low,low,8,namecheap,,,07/08/2026 11:27
 194cc695-3f90-4296-83a4-44bf45a886ac,these.restaurant,available,29.99,,medium,low,5,name.com,,,
-fcb55b57-57aa-4136-a218-c66480a562f1,tedious.restaurant,available,29.99,,medium,low,7,name.com,,,
+fcb55b57-57aa-4136-a218-c66480a562f1,tedious.restaurant,available,20.99,64.99,low,low,7,namesilo,,,23/09/2026 00:32
 169d318f-2762-48ed-ae94-9b03834f5a5e,refreshed.restaurant,available,29.99,,high,low,9,name.com,,,
 856c582f-3093-4234-ac1a-2cff144ae31e,adrift.restaurant,available,11.98,81.98,low,low,6,namecheap,,,
-27837792-6cdf-4969-8cdb-00fbd3952bb1,selfless.restaurant,available,29.99,83.99,high,low,8,name.com,,,
+27837792-6cdf-4969-8cdb-00fbd3952bb1,selfless.restaurant,available,20.99,64.99,medium,low,8,namesilo,,,22/09/2026 02:51
 ffbe2938-1be9-4e63-bb9f-3e9d258f604f,economic.restaurant,available,29.99,83.99,high,low,8,name.com,,,
 0dc56660-db37-437f-8d77-65435e0d192e,buzzing.restaurant,available,11.98,81.98,low,low,7,namecheap,,,
 0d2b9eea-4334-4022-a55c-e3d19647015c,promoter.restaurant,available,29.99,,high,low,8,name.com,,,
@@ -350,7 +350,7 @@ dbf2d138-02b9-4aca-9865-1f9df48bf800,unnatural.restaurant,available,,,medium,low
 4ae515c1-7074-4cad-babe-f0710c517c4a,wholesale.restaurant,premium,118.8,118.8,high,low,9,namesilo,,,
 6f2e64b4-0ca1-4fa7-9963-251e4019b49a,albescent.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
 bfa79e6b-3555-4c04-8fc9-ed96e42a3889,volatile.restaurant,available,29.99,,high,low,8,name.com,,,
-4bcd057e-b99c-4759-bfc6-bd41c0c9c46e,adorable.restaurant,available,29.99,83.99,high,low,8,name.com,,,
+4bcd057e-b99c-4759-bfc6-bd41c0c9c46e,adorable.restaurant,available,11.98,81.98,medium,low,8,namecheap,,,21/09/2026 19:18
 04bd264b-c34d-4c00-8747-1ae4c53ccd27,graywolf.restaurant,available,29.99,,high,low,9,name.com,,,
 3b92e908-d321-4dfe-bdf7-11c8e098f7b9,arteriolar.restaurant,available,11.98,81.98,low,low,10,namecheap,,,06/08/2026 22:34
 be8ee056-a3dd-45be-8a17-34e498eed98a,bra.restaurant,available,29.99,,medium,low,3,name.com,,,
@@ -372,7 +372,7 @@ cebc4d08-daf2-4246-bb75-216ed0804acf,husband.restaurant,available,29.99,,high,lo
 67d1aa8b-10fc-436e-a1a5-42b146d85310,coalesced.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
 4b0ae20a-cfaa-43c8-beb2-54b5e5e2717b,nationalconvention.restaurant,available,29.99,,medium,low,19,name.com,,,
 ff805e09-d8af-4417-967d-c7c717050d29,militant.restaurant,available,11.98,81.98,low,low,8,namecheap,,,
-7028e69e-6c65-450f-a043-52958e8e908a,armed.restaurant,available,29.99,,high,low,5,name.com,,,
+7028e69e-6c65-450f-a043-52958e8e908a,armed.restaurant,available,20.99,64.99,low,low,5,namesilo,,,22/09/2026 07:55
 4ce5ba66-049e-47ef-a43d-dd694ead5f15,moderately.restaurant,available,29.99,,medium,low,10,name.com,,,
 3f5b4995-f069-4724-bdb4-2d414c2219a0,asthedayislong.restaurant,available,29.99,,medium,low,18,name.com,,,
 5010a829-8130-48f6-bb65-c4fc5a6f9e20,idea.restaurant,available,,,high,low,4,,,,
@@ -399,7 +399,7 @@ d1d98330-0334-4de2-85f2-c0f439fe18fc,avon.restaurant,available,29.99,,high,low,4
 aa223982-b258-4013-b1e4-626db7f98c22,standupto.restaurant,available,29.99,,low,low,11,name.com,,,
 08c02377-ac6a-4096-82d3-f0ab6e09f8b4,incidentreport.restaurant,available,29.99,,medium,low,15,name.com,,,
 9d5f84cf-b09d-4cfa-8eb6-5ceacd3d82f9,mopeabout.restaurant,available,29.99,,low,low,10,name.com,,,
-51c5a9ed-1121-49b2-b620-648da2f98778,alphabetic.restaurant,available,29.99,83.99,medium,low,10,name.com,,,
+51c5a9ed-1121-49b2-b620-648da2f98778,alphabetic.restaurant,available,20.99,64.99,medium,low,10,namesilo,,,22/09/2026 02:10
 b7fe9ddd-cd55-43c5-a338-db28f22627d7,dick.restaurant,available,29.99,,medium,low,4,name.com,,,
 d797c25d-0308-416f-9095-1961e6f64b7a,violation.restaurant,available,29.99,,medium,low,9,name.com,,,
 32ed430d-4061-4cb4-b3cc-69f89dbe7a28,takeback.restaurant,available,29.99,,medium,low,9,name.com,,,
@@ -407,12 +407,12 @@ a266d670-699e-405f-8394-a9d9b30ee16c,jody.restaurant,available,29.99,,high,low,4
 38a25291-e4eb-442b-8520-c81206b3e756,also.restaurant,available,29.99,,high,low,4,name.com,,,
 2aaddee9-e890-497c-a4fb-94b863deccba,arable.restaurant,available,11.98,81.98,low,low,6,namecheap,,,06/08/2026 11:14
 22639cda-e7cb-42d1-bc78-5edb4d0b9303,insist.restaurant,available,29.99,,high,low,6,name.com,,,
-d3c5bf77-0d0d-4f8a-95fb-31e0509fa680,agnostic.restaurant,available,29.99,83.99,high,low,8,name.com,,,
+d3c5bf77-0d0d-4f8a-95fb-31e0509fa680,agnostic.restaurant,available,11.98,81.98,medium,low,8,namecheap,,,21/09/2026 23:11
 34c9d25a-6aaf-475e-8b15-0c740099ac95,batholitic.restaurant,available,11.98,81.98,low,low,10,namecheap,,,09/08/2026 01:30
 c609ea89-92ac-4538-b3a1-faa3cf8c17aa,chase.restaurant,available,,,medium,low,5,,,,
 d7cec4c7-698a-4848-9572-87f70911672a,bloodsample.restaurant,available,29.99,,high,low,12,name.com,,,
 cad03c2d-df8a-48f6-aece-d5a7d13e1789,physic.restaurant,available,11.98,81.98,low,low,6,namecheap,,,05/08/2026 22:25
-b30eede8-7962-453e-be1f-05d1ef812b64,awakened.restaurant,available,29.99,,medium,low,8,name.com,,,
+b30eede8-7962-453e-be1f-05d1ef812b64,awakened.restaurant,available,20.99,64.99,low,low,8,namesilo,,,22/09/2026 14:47
 8d2c151e-6f82-4a88-be5f-82c688d087a3,altricial.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
 db8c340a-f33f-49fe-9954-e20fe9596b6d,disney.restaurant,available,,,high,low,6,,,,
 5525410d-ea4d-471f-8290-fde657e03172,getoutofhere.restaurant,available,29.99,,high,low,15,name.com,,,
@@ -446,7 +446,7 @@ e2c4dc03-16f4-445d-b4c3-05f47db9b6ca,insteadof.restaurant,available,29.99,,mediu
 0e6732d6-a53c-43ae-9d80-994572ea6aa4,premium.restaurant,available,29.99,,high,low,7,name.com,,,
 df0b0a72-ac7b-459f-af96-87a413b7fc93,elaborated.restaurant,available,29.99,83.99,medium,low,10,name.com,,,
 5967e5a9-aa3c-44a9-8730-5e893931e6a3,unbearable.restaurant,available,29.99,,medium,low,10,name.com,,,
-1e209168-2672-49f0-baab-7f3dfa503d01,faded.restaurant,available,29.99,,medium,low,5,name.com,,,
+1e209168-2672-49f0-baab-7f3dfa503d01,faded.restaurant,available,20.99,64.99,low,low,5,namesilo,,,22/09/2026 11:25
 b4b6b263-a415-4419-ab1f-2c8c6cdf8be4,acrogenic.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
 7b71d980-d292-4549-a318-7c27ebb7baaf,gothedistance.restaurant,available,29.99,,high,low,15,name.com,,,
 1aed3031-845f-4e82-8c59-0bf6a15527b0,puttobed.restaurant,available,29.99,,low,low,10,name.com,,,
@@ -463,10 +463,10 @@ d8ec31bd-a11d-44c1-9c57-24433ad0342b,sausage.restaurant,available,29.99,,high,lo
 f88fb9a7-9ed2-4e11-923f-67be004a0474,principal.restaurant,available,29.99,,high,low,9,name.com,,,
 1a2df304-bea9-4175-a78d-3eda8b4871ee,ambagious.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
 56157db9-7887-4589-bd8a-acd870e7160d,variable.restaurant,available,29.99,,high,low,8,name.com,,,
-7cbe6d3c-22df-45ac-9915-c6f4d7021318,senior.restaurant,available,29.99,,high,low,6,name.com,,,
+7cbe6d3c-22df-45ac-9915-c6f4d7021318,senior.restaurant,available,11.98,81.98,low,low,6,namecheap,,,21/09/2026 22:36
 df9b6af8-8e4a-4e94-b43c-0d6346f21371,pompom.restaurant,available,11.98,81.98,low,low,7,namecheap,,,
 907c90de-24d6-4e30-8952-2a3058bcd0f7,childcare.restaurant,available,29.99,,high,low,10,name.com,,,
-b1960b63-4918-4911-b242-85a4ab2e61f6,abovenamed.restaurant,available,29.99,,medium,low,11,name.com,,,
+b1960b63-4918-4911-b242-85a4ab2e61f6,abovenamed.restaurant,available,29.99,,low,low,11,name.com,,,
 a6caea1a-2606-402d-883b-b50512b37c9a,provide.restaurant,available,29.99,,high,low,7,name.com,,,
 7429318a-e169-4d90-bfb6-b274a5a58ed9,airportnovel.restaurant,available,11.98,81.98,medium,low,13,namecheap,,,08/09/2026 03:28
 03cce4cf-21fd-414b-828a-d61381312a84,missionaccomplished.restaurant,available,29.99,,medium,low,20,name.com,,,
@@ -480,16 +480,16 @@ ce40a257-049a-466d-9ada-7bceb35da0ec,cane.restaurant,available,29.99,,medium,low
 0c0b9aba-06be-47a5-900f-754a1036faa2,acetylenic.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
 790baae6-5719-4402-847f-f5c2cc4a1e45,lxxxiv.restaurant,available,11.98,81.98,low,low,6,namecheap,,,
 024d3452-4810-4c92-8d93-0bb280cda5e0,thisminute.restaurant,available,29.99,,low,low,11,name.com,,,
-49cb62a2-9163-4a28-a0fb-24c82585aae8,network.restaurant,resell,,,low,low,7,,,,19/09/2026 04:36
+49cb62a2-9163-4a28-a0fb-24c82585aae8,network.restaurant,resell,,,low,low,7,"GoDaddy.com, LLC",10/02/2026 14:42,10/02/2027 14:42,23/09/2026 02:58
 fa88ae9b-0454-4451-9613-12f80d019327,axle.restaurant,available,,,high,low,4,,,,
 a4637454-5b22-423c-a488-61510c0bf760,sunvisor.restaurant,available,29.99,,high,low,9,name.com,,,
 d9d4d637-6ba7-45bf-8dd4-f1cc077d0e21,studyabroad.restaurant,available,29.99,,medium,low,12,name.com,,,
 390a8f52-e70c-4d7f-993b-974c7248855b,irrelevant.restaurant,available,29.99,,medium,low,10,name.com,,,
 ce19e398-5763-41a9-8320-3f3045808175,dowjones.restaurant,available,,,high,low,9,,,,
 33c13456-c4ff-4761-9b60-4e2a003c1545,exit.restaurant,available,29.99,,high,low,4,name.com,,,
-fa6a994e-5507-49d6-a721-7e58506f0df9,fine.restaurant,available,29.99,83.99,high,low,4,name.com,,,
+fa6a994e-5507-49d6-a721-7e58506f0df9,fine.restaurant,available,20.99,64.99,medium,low,4,namesilo,,,22/09/2026 01:03
 36a4cbe4-abc3-49fd-8d73-10be2f895932,indate.restaurant,available,29.99,,medium,low,7,name.com,,,
-34df7c57-fd81-4c69-9252-c2d37ee069a8,shit.restaurant,available,29.99,,medium,medium,4,name.com,,,
+34df7c57-fd81-4c69-9252-c2d37ee069a8,shit.restaurant,available,11.98,81.98,low,low,4,namecheap,,,22/09/2026 18:05
 63da54c7-cc7a-4703-88be-f73566426be9,englishmedium.restaurant,available,29.99,,medium,low,14,name.com,,,
 76e0a410-13a7-4ac8-9704-6b1c1126c64c,acherontic.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
 65a19246-8480-4d2e-bdb8-da779570d2e6,contested.restaurant,available,29.99,83.99,medium,low,9,name.com,,,
@@ -516,9 +516,9 @@ d4db90f4-ba07-4393-8a64-e8191535066f,sesameoil.restaurant,available,29.99,,mediu
 ab5d5595-e71e-4473-9182-e99ec1a42b55,attic.restaurant,available,11.98,81.98,low,low,5,namecheap,,,07/08/2026 15:46
 e29f57eb-3c24-4e6d-b6e3-1115a2f3e5a8,smith.restaurant,available,29.99,,medium,medium,5,name.com,,,
 597f7b10-30be-43c1-8dcb-9547b90c1b85,apriori.restaurant,available,11.98,81.98,low,low,8,namecheap,,,
-eab7cdf0-aa88-47ad-b6e9-80add1f571dd,cyan.restaurant,available,29.99,,high,low,4,name.com,,,
+eab7cdf0-aa88-47ad-b6e9-80add1f571dd,cyan.restaurant,available,20.99,64.99,medium,low,4,namesilo,,,22/09/2026 22:59
 93653d5f-e587-4efd-ab9c-7f4cbf3c260b,whiten.restaurant,available,29.99,,high,low,6,name.com,,,
-787ed3b0-a837-49d9-afa1-00c5a4b8ad1a,backwards.restaurant,available,29.99,,high,low,9,name.com,,,
+787ed3b0-a837-49d9-afa1-00c5a4b8ad1a,backwards.restaurant,available,20.99,64.99,low,low,9,namesilo,,,22/09/2026 15:55
 34dab0f4-275c-408b-b978-b9f65a5a6acc,blessing.restaurant,available,11.98,81.98,low,low,8,namecheap,,,06/08/2026 09:29
 397c70f3-f164-4bab-bd0d-0bf2f04eefef,melt.restaurant,available,29.99,,high,low,4,name.com,,,
 a4e7bce5-9fea-4633-8442-94b318f03985,scarface.restaurant,available,29.99,,medium,low,8,name.com,,,
@@ -545,7 +545,7 @@ dd247dea-587d-4d08-895d-658ae22a33a4,garlic.restaurant,available,29.99,,high,low
 c2357264-26a2-4ba6-bd0d-f9ad938620a5,annulate.restaurant,available,11.98,81.98,low,low,8,namecheap,,,
 4d06dede-1b9e-4c01-a5e9-9176e4a14cfb,studentloan.restaurant,available,29.99,,medium,low,12,name.com,,,
 1198f8ce-5fa5-4e39-84ab-bdd420aff017,assentient.restaurant,available,11.98,81.98,low,low,10,namecheap,,,07/08/2026 05:48
-50081e1c-3203-43c1-ac73-d064aed63920,unify.restaurant,available,29.99,83.99,high,low,5,name.com,,,
+50081e1c-3203-43c1-ac73-d064aed63920,unify.restaurant,available,11.98,81.98,low,low,5,namecheap,,,22/09/2026 03:16
 1cc0e500-19d6-4c83-8ba3-b58ec3108d4f,irregular.restaurant,available,29.99,,high,low,9,name.com,,,
 ef6e8f45-5137-49f4-91c0-5cbfe70ad4f2,technologies.restaurant,available,29.99,,low,low,12,name.com,,,
 d4fb354a-213a-4f29-9152-e27b7c190177,trounce.restaurant,available,11.98,81.98,low,low,7,namecheap,,,09/08/2026 05:27
@@ -561,7 +561,7 @@ e29e7dc9-6492-4910-990d-c6630f08fe3f,prolific.restaurant,available,29.99,,high,l
 d1df6410-e9b1-4686-b679-7311360781c4,bloodclot.restaurant,available,29.99,,medium,low,10,name.com,,,
 fd2dcd59-6f5a-47be-b3d9-a3a889ca01d6,retina.restaurant,available,29.99,,high,low,6,name.com,,,
 0141f697-8527-45cd-abb3-989b431b108f,campaigner.restaurant,available,29.99,,medium,low,10,name.com,,,
-161d5b7e-a075-4642-8433-8d0b15437a03,favored.restaurant,available,29.99,,high,low,7,name.com,,,
+161d5b7e-a075-4642-8433-8d0b15437a03,favored.restaurant,available,11.98,81.98,medium,low,7,namecheap,,,22/09/2026 20:01
 43bb8e94-d50e-4a0c-9e69-26713772d10b,vanity.restaurant,available,29.99,,medium,low,6,name.com,,,
 8730ad44-0974-43e4-b182-f366fcfc0394,consist.restaurant,available,29.99,,high,low,7,name.com,,,
 2804c52f-d474-4b07-b766-74a26d237290,integrate.restaurant,available,11.98,81.98,medium,low,9,namecheap,,,20/09/2026 03:11
@@ -574,21 +574,20 @@ b3d8f05a-4624-4b9b-a3a8-fbc29ff31566,shelf.restaurant,available,29.99,,high,low,
 06d53f04-e23a-46cc-b6e7-9a7864060c00,antifungal.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
 c8580084-d062-49fa-81ee-522bdc387f4a,frustrate.restaurant,available,29.99,83.99,high,low,9,name.com,,,
 b9bc8664-458b-4c3c-bdac-ba37250a7e99,lockkey.restaurant,available,29.99,,high,low,8,name.com,,,
-058de5cb-f249-45bc-bbb7-ffa46c1f1332,research.restaurant,available,20.99,64.99,medium,low,8,namesilo,,,20/09/2026 02:40
+058de5cb-f249-45bc-bbb7-ffa46c1f1332,research.restaurant,available,11.98,81.98,medium,low,8,namecheap,,,23/09/2026 04:11
 79d2fcd8-56bb-4d26-9da8-e40935e630c5,valued.restaurant,available,29.99,,high,low,6,name.com,,,
 597d8f75-790a-4e7b-abc3-be1fbfe7706d,nominee.restaurant,available,29.99,,high,low,7,name.com,,,
-c56d9962-73dc-4ba7-9482-f77d81b87906,autonomous.restaurant,available,,,high,high,10,,,,
 d5ed8898-f3f3-48c2-ba6a-4656bacfca71,therefore.restaurant,available,29.99,,medium,low,9,name.com,,,
 84f41c10-9c46-4da6-89d9-a1e1a9dfa3e0,safehaven.restaurant,available,29.99,,high,low,10,name.com,,,
 ec13a985-b114-4dd4-8362-ceeef9c20a0c,signin.restaurant,available,20.99,64.99,medium,low,7,namesilo,,,17/09/2026 03:42
 56160e5d-213d-4c59-8895-c0bcb39486f9,toeachhisown.restaurant,available,29.99,,medium,low,15,name.com,,,
 061feeb3-7fe6-4edd-9162-353f78a58284,shiftabout.restaurant,available,29.99,,low,low,11,name.com,,,
-9a79adc9-4ef1-4064-a846-1cd6ec71e55d,binding.restaurant,available,29.99,,high,low,7,name.com,,,
-8f0ca530-3132-4848-8deb-08e24d44c52d,cake.restaurant,available,29.99,,high,low,4,name.com,,,
+9a79adc9-4ef1-4064-a846-1cd6ec71e55d,binding.restaurant,available,11.98,81.98,medium,low,7,namecheap,,,22/09/2026 20:51
+8f0ca530-3132-4848-8deb-08e24d44c52d,cake.restaurant,available,20.99,64.99,medium,low,4,namesilo,,,23/09/2026 06:16
 07abf533-abc6-438a-abb0-15ebec9dd76c,shakira.restaurant,available,29.99,,high,low,7,name.com,,,
 8aa1dc3a-53b9-432c-891b-fd4cc090c9ed,azygous.restaurant,available,11.98,81.98,low,low,7,namecheap,,,08/08/2026 03:27
 13ae8ea6-501e-4a53-b8b2-2701f39e32f2,forced.restaurant,available,29.99,83.99,medium,low,6,name.com,,,
-a78e97a0-4059-4e79-a407-412c6aae54f0,doable.restaurant,available,29.99,83.99,high,low,6,name.com,,,
+a78e97a0-4059-4e79-a407-412c6aae54f0,doable.restaurant,available,20.99,64.99,medium,low,6,namesilo,,,21/09/2026 15:46
 13e01be1-a6c3-4318-86ce-2aa772d80f93,annular.restaurant,available,,,medium,low,7,,,,
 396e8d90-76a2-4356-b646-a2624fbbe2c5,leaf.restaurant,available,29.99,,high,low,4,name.com,,,
 3cf07aa3-18c6-4f3e-adb0-674941257d1c,basined.restaurant,available,11.98,81.98,low,low,7,namecheap,,,08/08/2026 22:37
@@ -604,9 +603,8 @@ b4e05bdf-da96-4be6-a054-3a23440d2d48,anuric.restaurant,available,11.98,81.98,low
 929ffa59-e252-4a3e-ad8e-a946c97feff7,experienced.restaurant,available,29.99,,high,low,11,name.com,,,
 d849cf1e-eb89-4144-b90a-09cef3fcd94a,lxxvi.restaurant,available,11.98,81.98,low,low,5,namecheap,,,
 31e91578-fead-4b0c-bb75-f77b19c51ad0,departed.restaurant,available,11.98,81.98,low,low,8,namecheap,,,07/08/2026 11:31
-a17ed411-2818-4fdd-b0e1-c21afd1aa14b,atomic.restaurant,available,29.99,,high,medium,6,name.com,,,
+a17ed411-2818-4fdd-b0e1-c21afd1aa14b,atomic.restaurant,available,20.99,64.99,low,low,6,namesilo,,,22/09/2026 11:03
 09c962c8-06ff-45b6-9e10-74c2fc4e6da3,regional.restaurant,available,29.99,,high,low,8,name.com,,,
-5e6de7da-c9d5-49f5-b85d-99945eccb3c5,avocado.restaurant,available,29.99,,high,low,7,name.com,,,
 ed5fa21f-5918-4783-adc4-20aee8a5d249,allopathic.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
 37bef134-f74b-41bb-9c38-61bb1e337719,compensate.restaurant,available,29.99,,high,low,10,name.com,,,
 54dc52da-fece-4f5c-ba39-4fe973cd7e98,makethemostof.restaurant,available,29.99,,high,low,16,name.com,,,
@@ -616,8 +614,8 @@ e9601209-61b0-462b-ba8b-722bf129ee85,slope.restaurant,available,29.99,,high,low,
 164c9e59-3183-4209-9b3b-8db061053652,convince.restaurant,available,29.99,,high,low,8,name.com,,,
 bafe0e8e-c7e2-415a-b8be-bf4139e62b10,topic.restaurant,available,29.99,,high,low,5,name.com,,,
 9cb462ca-514b-4704-8d6f-ce6bc1d90abb,schmalzy.restaurant,available,11.98,81.98,low,low,8,namecheap,,,09/08/2026 01:09
-f9f57f08-3e67-4543-8be8-39afe523b5f9,nail.restaurant,available,29.99,83.99,medium,low,4,name.com,,,
-5f42ced2-faa9-4595-9a66-2a2b5d0f48df,corporate.restaurant,available,29.99,,high,low,9,name.com,,,
+f9f57f08-3e67-4543-8be8-39afe523b5f9,nail.restaurant,available,20.99,64.99,low,low,4,namesilo,,,21/09/2026 16:04
+5f42ced2-faa9-4595-9a66-2a2b5d0f48df,corporate.restaurant,available,20.99,64.99,medium,low,9,namesilo,,,23/09/2026 06:11
 f34f6690-1cb4-49c0-9e1c-caa49c3bb8d7,shout.restaurant,available,29.99,,high,low,5,name.com,,,
 138693a3-5b0f-464f-b67c-4ba68576d16b,proficiency.restaurant,available,29.99,,medium,low,11,name.com,,,
 3bbdccfe-8e46-4e99-85c6-ad72a7602556,backhand.restaurant,available,11.98,81.98,medium,low,8,namecheap,,,08/08/2026 05:43
@@ -632,11 +630,11 @@ c64baa23-48ea-462d-ad58-037bc8cbf17f,plier.restaurant,available,29.99,,high,low,
 6a3d1235-ddb6-45fb-b7cf-20b73f81c836,pronounced.restaurant,available,29.99,,medium,low,10,name.com,,,
 31432052-e137-4c80-8386-670615543f8a,mode.restaurant,available,29.99,,high,low,4,name.com,,,
 b20bff8a-33d7-47d0-98ab-b8b9917b5b80,steamengine.restaurant,available,29.99,,high,low,12,name.com,,,
-1a6e9640-1f0e-4599-8d37-dea8ebad0d01,abide.restaurant,available,29.99,,high,low,5,name.com,,,
+1a6e9640-1f0e-4599-8d37-dea8ebad0d01,abide.restaurant,available,29.99,,medium,low,5,name.com,,,
 67ea4a66-0ddd-4eb4-a37a-2b3d2c3c35f4,helmethair.restaurant,available,29.99,,medium,low,11,name.com,,,
 545f46de-88d2-4609-b0a1-d886d49d0042,normality.restaurant,available,29.99,,high,low,9,name.com,,,
 97a515d3-583d-42d5-974f-07aea26f1bff,affirmable.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
-538e0f60-9ea5-4b7c-9ab7-cdf04fe34b36,weary.restaurant,available,29.99,,medium,low,5,name.com,,,
+538e0f60-9ea5-4b7c-9ab7-cdf04fe34b36,weary.restaurant,available,20.99,64.99,low,low,5,namesilo,,,22/09/2026 15:10
 d9140a67-b409-41b8-ab8d-7fd2c7b415be,iknowit.restaurant,available,29.99,,medium,low,9,name.com,,,
 342d94ab-ee70-4ba6-a964-fd334131ad38,affiliated.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
 9564a436-9a18-412e-8771-a6bd161a5131,magiccube.restaurant,available,29.99,,medium,low,10,name.com,,,
@@ -655,18 +653,18 @@ c151f563-3f6d-4a8f-bfb5-13675d43d9b7,aerophilic.restaurant,available,11.98,81.98
 aec699ea-3905-4af2-b65d-a4c7ee9379e6,shocked.restaurant,available,11.98,81.98,low,low,7,namecheap,,,
 b4556a73-11ee-4110-bdf4-807e330bfedd,loaded.restaurant,available,11.98,81.98,low,low,6,namecheap,,,
 0611f148-ca8d-4b83-99ad-7c4b7dd93c83,kidney.restaurant,available,29.99,,medium,low,6,name.com,,,
-89c71f4e-f72c-4377-93ee-8825ca487d7b,norm.restaurant,available,29.99,,high,low,4,name.com,,,
+89c71f4e-f72c-4377-93ee-8825ca487d7b,norm.restaurant,available,11.98,81.98,medium,low,4,namecheap,,,22/09/2026 14:30
 c8321458-b47a-4a74-86ee-e1bbacfebf40,puertorico.restaurant,available,,,low,low,11,,,,
 2489d77d-250b-426d-a9c9-66bb18c190f0,fearful.restaurant,available,29.99,83.99,high,low,7,name.com,,,
 21fb38dc-c270-44a4-a136-c6b13c805f29,altissimo.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
 43b0b8df-b2a1-4d29-b94b-051917080ac0,comeinhot.restaurant,available,29.99,,high,low,11,name.com,,,
 ffaafc2b-9129-40f4-9474-f750fbbeeb7b,lookup.restaurant,premium,118.8,118.8,high,low,7,namesilo,,,
-4495fa12-4c04-476e-b306-87512fb9ddd0,bluish.restaurant,available,29.99,,high,low,6,name.com,,,
+4495fa12-4c04-476e-b306-87512fb9ddd0,bluish.restaurant,available,11.98,81.98,low,low,6,namecheap,,,22/09/2026 22:47
 33325eb0-17f0-415d-9202-5aa9ac46c0f6,enjoy.restaurant,premium,78.54,78.54,high,medium,5,namesilo,,,
 3fcab1ba-eb3a-474f-8c41-711594812bde,arsenical.restaurant,available,11.98,81.98,low,low,9,namecheap,,,06/08/2026 22:18
 2fa83cfc-5e4d-4040-b157-9e32432fbbbd,usual.restaurant,available,29.99,,high,low,5,name.com,,,
 48ad170d-abbb-4b06-aa2d-642299cb3715,grandslam.restaurant,available,29.99,,high,low,10,name.com,,,
-2371786e-b871-43e4-9638-439af4e0fdb3,leading.restaurant,available,29.99,83.99,high,low,7,name.com,,,
+2371786e-b871-43e4-9638-439af4e0fdb3,leading.restaurant,available,20.99,64.99,medium,low,7,namesilo,,,21/09/2026 23:23
 7e36c75c-1c0e-421f-b42e-557175266d86,finishup.restaurant,available,29.99,,high,low,9,name.com,,,
 7ee502d9-3584-47fc-8c74-ce4e8cabd108,sailorboy.restaurant,available,29.99,,low,low,10,name.com,,,
 0281acbe-1f03-4586-be88-22f884263f8d,slight.restaurant,available,29.99,,medium,low,6,name.com,,,
@@ -679,7 +677,7 @@ b2a9cced-8849-40c0-a1fe-ae6d58f801f9,attention.restaurant,available,29.99,,high,
 f4c326f5-968d-4353-b62f-963e1d77ad89,westcountry.restaurant,available,29.99,,low,low,12,name.com,,,
 fe22e425-6a0a-4526-aae2-44d849f14b8a,consequent.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
 beae7af7-fc64-41b4-ade2-12b976b70575,liii.restaurant,available,11.98,81.98,low,low,4,namecheap,,,
-bc18ff7f-0c6a-45bb-8650-be19d6d78ad6,acappella.restaurant,available,29.99,83.99,medium,low,10,name.com,,,
+bc18ff7f-0c6a-45bb-8650-be19d6d78ad6,acappella.restaurant,available,11.98,81.98,low,low,10,namecheap,,,21/09/2026 13:25
 8705fba1-b504-41b0-938e-781e1f6304e9,diabetes.restaurant,available,29.99,,medium,low,8,name.com,,,
 12336cc9-fd4c-4868-8208-5c9cc696e39b,papershop.restaurant,available,29.99,,medium,low,10,name.com,,,
 f8e76c7b-79c0-48a3-ad71-293afec2a3c7,stain.restaurant,available,29.99,,high,low,5,name.com,,,
@@ -688,7 +686,7 @@ bcdc1a81-c25a-44cd-87fa-bd3dee2262da,afoot.restaurant,available,11.98,81.98,low,
 00ca58e4-c9bd-404c-9788-c1144c2ddaac,campaign.restaurant,available,29.99,,high,low,8,name.com,,,
 d6e6a5cb-6549-4320-ad8a-52b86bff6a72,safe.restaurant,premium,250,,high,medium,4,name.com,,,
 370e10f5-e42c-42a8-b135-53dcdb5e70b1,deejay.restaurant,available,29.99,,high,low,6,name.com,,,
-6761561b-9858-46ea-9f5e-86d9154ff39e,forth.restaurant,available,29.99,,high,low,5,name.com,,,
+6761561b-9858-46ea-9f5e-86d9154ff39e,forth.restaurant,available,20.99,64.99,low,low,5,namesilo,,,22/09/2026 14:59
 c10da417-9151-4d38-b1e4-aac833f9c404,grumpy.restaurant,available,11.98,81.98,low,low,6,namecheap,,,08/08/2026 07:57
 e43660c8-dbcb-49a4-85f6-92280c9c55c1,acerose.restaurant,available,11.98,81.98,low,low,7,namecheap,,,
 91b6dcfd-5868-4afa-99e7-8a387635d058,profile.restaurant,available,29.99,,high,low,7,name.com,,,
@@ -738,7 +736,7 @@ b21871b3-f27b-4ea3-b01b-495d8f5d4756,arching.restaurant,available,11.98,81.98,lo
 065cd510-76c4-4ff2-a26e-bfb65dfa1930,letter.restaurant,available,29.99,,high,low,6,name.com,,,
 c9de1e6e-c76d-483a-85a0-ed21f26984f0,generalknowledge.restaurant,available,29.99,,high,low,17,name.com,,,
 3c80a995-d644-4b63-930c-8e26585dca0e,lastminute.restaurant,available,29.99,,medium,low,11,name.com,,,
-903f1846-07cf-4b5a-8476-4f8bf89fd0ce,dull.restaurant,available,29.99,,medium,low,4,name.com,,,
+903f1846-07cf-4b5a-8476-4f8bf89fd0ce,dull.restaurant,available,20.99,64.99,low,low,4,namesilo,,,23/09/2026 00:25
 4e06af11-56c4-46f5-b1be-41c3b3242ab8,antipodal.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
 08045477-7153-448e-a434-22295b1b77d6,moveover.restaurant,available,29.99,,medium,low,9,name.com,,,
 f74a427a-16c1-4fe2-8884-61c8f5d99e35,onehalf.restaurant,available,29.99,,medium,low,8,name.com,,,
@@ -778,11 +776,11 @@ c6822d2e-e9e2-42d9-8d43-7e5439dfed16,frog.restaurant,available,11.98,81.98,mediu
 77da4e3b-f886-483b-90ae-4d6f0e977ce3,wellcovered.restaurant,available,29.99,,high,low,12,name.com,,,
 d909657b-67b6-447a-9f2f-cb52de480db5,hurt.restaurant,available,29.99,,medium,low,4,name.com,,,
 c3db2cea-aa8d-4c4d-b9b7-0d575ad09941,finalyearproject.restaurant,available,29.99,,high,low,18,name.com,,,
-8f351f36-7116-4260-a2b5-2b00f42155f4,unfearing.restaurant,available,29.99,,medium,low,9,name.com,,,
+8f351f36-7116-4260-a2b5-2b00f42155f4,unfearing.restaurant,available,20.99,64.99,low,low,9,namesilo,,,22/09/2026 12:32
 c7bce9a1-f5b0-4361-bcad-e8f6318ac58b,puttowords.restaurant,available,29.99,,low,low,12,name.com,,,
 0ff09fef-4ef5-464b-a309-cc4d10f0df46,ultimately.restaurant,available,29.99,,medium,low,10,name.com,,,
 3d2d7480-f2af-4cbb-b0ed-3aa9022e9191,middleeast.restaurant,available,29.99,,medium,low,11,name.com,,,
-abe3c2f1-cb2d-45dc-bbb6-b9ac07207dd9,away.restaurant,available,29.99,,high,low,4,name.com,,,
+abe3c2f1-cb2d-45dc-bbb6-b9ac07207dd9,away.restaurant,available,20.99,64.99,medium,low,4,namesilo,,,22/09/2026 14:52
 1d9714d0-1a5d-4b94-a28c-250d04565ba8,generalstudies.restaurant,available,29.99,,high,low,15,name.com,,,
 d496a2c9-0756-4ff4-bd38-6f4562f52bc5,cotton.restaurant,available,29.99,,high,low,6,name.com,,,
 ea93341c-e3df-4ff1-8aa8-883e8b39e696,replacement.restaurant,available,29.99,,medium,low,11,name.com,,,
@@ -791,7 +789,7 @@ ea93341c-e3df-4ff1-8aa8-883e8b39e696,replacement.restaurant,available,29.99,,med
 372e197c-140a-46b4-bf30-8210ee581e7d,credible.restaurant,available,11.98,81.98,low,low,8,namecheap,,,09/08/2026 12:56
 634aa4a9-d2b2-40cd-ac84-122debaca2e5,fortified.restaurant,available,11.98,81.98,low,low,9,namecheap,,,09/08/2026 00:17
 4ea8b3a7-cfb1-487f-a6b0-ffd2425abc0d,soundlike.restaurant,available,29.99,,low,low,10,name.com,,,
-48cb55f8-8da9-4973-8a54-dd078b8eac66,deadly.restaurant,available,29.99,,medium,low,6,name.com,,,
+48cb55f8-8da9-4973-8a54-dd078b8eac66,deadly.restaurant,available,20.99,64.99,low,low,6,namesilo,,,22/09/2026 16:43
 46dd9d85-9f19-462f-a8df-7b778e3585b9,midseptember.restaurant,available,29.99,,high,low,13,name.com,,,
 65bae4fe-1003-4de3-bbe9-bef356122c41,proved.restaurant,available,29.99,,high,low,6,name.com,,,
 05982e66-e8ae-4e3d-bf22-ff94f46ff83b,rushing.restaurant,available,29.99,,medium,low,7,name.com,,,
@@ -816,14 +814,13 @@ b84b5a92-88ad-4fb3-ac55-cba6f70fc409,happening.restaurant,available,29.99,,high,
 4947b4de-48e8-47f9-9aca-d5ffcf49abef,thread.restaurant,available,29.99,,high,low,6,name.com,,,
 5d20f659-61c7-4e48-b314-033319ea38c3,farm.restaurant,available,,,high,low,4,,,,
 1d9f161a-9e93-400a-8eaf-52ddc2e489fe,inpublic.restaurant,available,20.99,64.99,low,low,9,namesilo,,,16/09/2026 13:11
-bd5bb461-e6fe-4033-b36f-b763338f9366,windy.restaurant,available,29.99,,high,low,5,name.com,,,
+bd5bb461-e6fe-4033-b36f-b763338f9366,windy.restaurant,available,11.98,81.98,medium,low,5,namecheap,,,22/09/2026 22:44
 a65728d3-0910-4a70-af00-7bc5e799a4b1,niece.restaurant,available,29.99,,medium,low,5,name.com,,,
-544d617a-cec7-4b36-9f7e-6a819e1290f6,ability.restaurant,available,29.99,,high,low,7,name.com,,,
+544d617a-cec7-4b36-9f7e-6a819e1290f6,ability.restaurant,available,29.99,,medium,low,7,name.com,,,
 f13105da-429c-441a-b8de-0ea993de841f,cows.restaurant,available,29.99,,medium,low,4,name.com,,,
 8393bcb1-fcdf-452f-bf1b-baf4d6068fe0,troublemaker.restaurant,available,29.99,,medium,low,13,name.com,,,
 53d509c5-6d6d-40bf-8d6d-d7428ea75963,ape.restaurant,available,11.98,81.98,medium,low,3,namecheap,,,
 34712c1c-eb1e-48f9-a8ca-0d6299117a31,sexslave.restaurant,available,29.99,,medium,low,9,name.com,,,
-d7c49a91-5075-499c-9fbe-1c2e1f7f3ada,lively.restaurant,available,,,high,high,6,,,,
 62269204-33e7-4c62-b099-d2df43ff735d,creative.restaurant,premium,82.5,82.5,high,medium,8,name.com,,,
 1a65cb5a-3469-48c9-89df-f3f3b59211fb,backmost.restaurant,available,11.98,81.98,low,low,8,namecheap,,,08/08/2026 05:53
 18fb2059-e75d-4c57-b68d-02f7b7b09ae9,discredit.restaurant,available,29.99,,high,low,9,name.com,,,
@@ -836,7 +833,7 @@ d4a1ef76-7112-49f9-bf30-ee2d6373634e,luckystreak.restaurant,available,29.99,,hig
 d291f9f3-9ff2-40be-a419-b9df16a21656,onec.restaurant,available,11.98,81.98,low,low,5,namecheap,,,
 1d538800-ad54-4ff9-80e0-a84a197fdde5,fiction.restaurant,available,29.99,,high,low,7,name.com,,,
 ba1bdf91-2e14-41e0-90b1-777eed9a41ff,xxx.restaurant,premium,242,242,low,medium,3,namesilo,,,
-a94d9562-61b6-407f-aec8-703b883c4462,armored.restaurant,available,29.99,,medium,low,7,name.com,,,
+a94d9562-61b6-407f-aec8-703b883c4462,armored.restaurant,available,20.99,64.99,low,low,7,namesilo,,,22/09/2026 08:00
 46f1b271-c760-46d4-b7e4-5a1ad9cf3f8b,teeth.restaurant,available,29.99,,high,low,5,name.com,,,
 9c73651e-8c2b-4961-9dde-466f96a1a6f1,farther.restaurant,available,29.99,,high,low,7,name.com,,,
 337f53fb-63a2-4dd2-9341-7ecabcb17b8e,annotated.restaurant,available,29.99,,medium,low,9,name.com,,,
@@ -844,7 +841,7 @@ d486d50f-fa99-4c5f-a0b3-d125b680c4b8,peaceful.restaurant,available,29.99,,high,l
 7e73b3b0-8fbd-4d3a-92d0-2f739c400ed3,witty.restaurant,available,29.99,,high,low,5,name.com,,,
 a3a36a13-964d-41f7-9f11-aa8cf3930a21,blossom.restaurant,available,29.99,,high,low,7,name.com,,,
 2bac9924-3895-40fb-8544-e94bdfb57452,saved.restaurant,available,29.99,,high,low,5,name.com,,,
-335ed98f-9f6e-49b5-8dc9-a6703666b04c,about.restaurant,premium,250,250,high,low,5,name.com,,,
+335ed98f-9f6e-49b5-8dc9-a6703666b04c,about.restaurant,premium,242,242,medium,low,5,namesilo,,,21/09/2026 14:03
 66ebe4ab-6087-4ce3-9d95-d107df8abccc,redpanda.restaurant,available,29.99,,high,low,9,name.com,,,
 9fd98533-90fc-429f-8a48-ef51b9382292,slip.restaurant,available,,,high,low,4,,,,
 145087c1-c13a-4721-9e37-5b948c5e20d4,affecting.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
@@ -860,9 +857,9 @@ cd69db4a-1b78-49f0-b7bf-c2ee56e6de9a,aligned.restaurant,available,11.98,81.98,lo
 eae8904e-25d4-42e5-a71c-0c90348e3eb4,asopposedto.restaurant,available,29.99,,medium,low,13,name.com,,,
 5ac7d090-cd02-4f6d-a5b1-3e11d6413740,success.restaurant,available,29.99,,high,low,7,name.com,,,
 e83e1b58-82c6-4ff3-bffc-28c912220f58,muhfucka.restaurant,available,29.99,,medium,low,8,name.com,,,
-65c03813-46c9-464a-a1be-92d4b0c78aa0,balsamic.restaurant,available,29.99,,high,low,8,name.com,,,
+65c03813-46c9-464a-a1be-92d4b0c78aa0,balsamic.restaurant,available,20.99,64.99,medium,low,8,namesilo,,,22/09/2026 16:34
 6ebed2a6-07e8-4918-8a91-b58914764d93,express.restaurant,premium,118.8,118.8,high,low,7,namesilo,,,
-eeb40f26-14d5-4f1d-8d27-edef3554b55e,twentysix.restaurant,available,29.99,83.99,high,low,10,name.com,,,
+eeb40f26-14d5-4f1d-8d27-edef3554b55e,twentysix.restaurant,available,20.99,64.99,medium,low,10,namesilo,,,21/09/2026 12:53
 51e5de0a-750b-4bca-baae-f7d085ed8107,amerciable.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
 16a657fe-a7c7-4ab1-9ad4-27dbd1bc34cb,fashion.restaurant,available,29.99,,high,medium,7,name.com,,,
 f861996e-6854-4eb1-9731-79ca40dc3c71,nourishing.restaurant,available,11.98,81.98,medium,low,10,namecheap,,,19/09/2026 17:50
@@ -880,11 +877,11 @@ f4422054-bb8f-4783-8585-f46d75e4f924,midfebruary.restaurant,available,29.99,,hig
 5400f52c-45ea-4476-9cf7-b71229b169bf,proclaiming.restaurant,available,29.99,,high,low,11,name.com,,,
 a5a7c755-8221-4c4f-aa92-223286583a49,acapnotic.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
 5ea0687d-3a2f-4b64-a258-e471c49d42db,allyoucaneat.restaurant,available,29.99,,high,low,15,name.com,,,
-57c05217-95a9-4711-af01-bb9f38ea5b2e,bothered.restaurant,available,29.99,,medium,low,8,name.com,,,
+57c05217-95a9-4711-af01-bb9f38ea5b2e,bothered.restaurant,available,20.99,64.99,low,low,8,namesilo,,,23/09/2026 01:08
 5af0a4bc-0bef-4d89-aa4e-f3a3d5f54b6e,aciculate.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
-95bacc3b-1f05-4fb7-9869-0307372f7f22,borderline.restaurant,available,29.99,,high,low,10,name.com,,,
+95bacc3b-1f05-4fb7-9869-0307372f7f22,borderline.restaurant,available,20.99,64.99,low,low,10,namesilo,,,23/09/2026 00:01
 f231fc8a-d7f7-43ec-a629-b745777483f5,frustrated.restaurant,available,29.99,83.99,medium,low,10,name.com,,,
-aae6d7d6-c862-4258-bf1d-d6a0df5d8417,bordered.restaurant,available,29.99,,medium,low,8,name.com,,,
+aae6d7d6-c862-4258-bf1d-d6a0df5d8417,bordered.restaurant,available,20.99,64.99,low,low,8,namesilo,,,22/09/2026 23:55
 cd1f3e35-3c64-403e-9faa-c545f68d3ace,delightful.restaurant,available,29.99,83.99,medium,low,10,name.com,,,
 62e19f91-7492-4799-a451-d5ca5dd23348,mountain.restaurant,premium,118.8,118.8,high,low,8,namesilo,,,
 c484d617-e1f0-40fa-aa45-5fae9b7f741e,phantasmal.restaurant,available,11.98,81.98,low,low,10,namecheap,,,06/08/2026 05:33
@@ -913,7 +910,7 @@ a08019f5-d3a9-43bb-bf6d-309c308ddcf6,sixtyfour.restaurant,available,11.98,81.98,
 b1a8ae7c-ac23-4da9-b310-42bb0f45d9bc,amorphous.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
 1bbd2333-1c76-4fb9-925e-0df6916fd34d,acheronian.restaurant,available,11.98,81.98,low,low,10,namecheap,,,
 0b1787ac-ee57-4efd-978c-805485a24ae2,exalt.restaurant,available,11.98,81.98,medium,low,5,namecheap,,,
-a5bfcc60-6107-497f-9767-7c36f1a6704e,billion.restaurant,available,29.99,,high,low,7,name.com,,,
+a5bfcc60-6107-497f-9767-7c36f1a6704e,billion.restaurant,available,11.98,81.98,medium,low,7,namecheap,,,22/09/2026 20:43
 db3bf25f-43b9-427e-af8c-c1e5bb309469,bathetic.restaurant,available,11.98,81.98,low,low,8,namecheap,,,09/08/2026 00:28
 2e06bb29-172c-4fd5-9e2f-f244d1fb9dea,risen.restaurant,available,29.99,,medium,low,5,name.com,,,
 b149b3e3-ad48-4765-af63-15d62f63eb89,normally.restaurant,available,29.99,,medium,low,8,name.com,,,
@@ -929,7 +926,7 @@ a09c7819-c8e4-4bcf-85ec-0da99d951645,consumption.restaurant,available,29.99,,med
 a19fa200-2f11-44ad-bc20-2de8986d0861,swollen.restaurant,available,29.99,83.99,medium,low,7,name.com,,,
 3c9a7640-8252-455f-8975-5b6d9e52d955,quarterof.restaurant,available,29.99,,low,low,10,name.com,,,
 376119f3-59a8-423f-8d3f-a537dca48dda,patriotism.restaurant,available,29.99,,high,low,10,name.com,,,
-ae1ddee4-0add-473d-8235-366040e306e5,accused.restaurant,available,29.99,,high,low,7,name.com,,,
+ae1ddee4-0add-473d-8235-366040e306e5,accused.restaurant,available,29.99,,low,low,7,name.com,,,
 618310b4-ed5f-4546-983d-0664616ead02,distance.restaurant,available,29.99,,high,low,8,name.com,,,
 fc23138d-240c-419c-9dab-671287f1be52,confirmed.restaurant,available,29.99,83.99,medium,low,9,name.com,,,
 b203caf6-6e4d-4a81-8deb-1975e39c63b8,congestion.restaurant,available,29.99,,medium,low,10,name.com,,,
@@ -939,7 +936,7 @@ ebfc1d00-6ab3-4434-826c-2465ea8a8ad6,charmed.restaurant,available,11.98,81.98,lo
 767ff928-8067-4bb5-ab72-9dfd9507cf36,appalled.restaurant,available,11.98,81.98,low,low,8,namecheap,,,
 05fb5c90-38de-4280-a6e9-ed388c17de40,reassuringly.restaurant,available,29.99,,medium,low,12,name.com,,,
 89334cfb-a192-4cd0-a673-3ee0c6df232f,pal.restaurant,available,29.99,,high,low,3,name.com,,,
-8bf55e0a-271e-4522-a3dc-77f459ea68fa,wink.restaurant,available,29.99,,high,low,4,name.com,,,
+8bf55e0a-271e-4522-a3dc-77f459ea68fa,wink.restaurant,available,20.99,64.99,medium,low,4,namesilo,,,22/09/2026 22:05
 7b73e638-20bc-4345-b3d5-1da108be5a36,comely.restaurant,available,11.98,81.98,low,low,6,namecheap,,,09/08/2026 06:13
 1b18be31-5760-4051-af8e-178e5a453c17,doyouknow.restaurant,available,29.99,,medium,low,11,name.com,,,
 36f62555-177c-4597-992a-33b1fb427947,promising.restaurant,available,29.99,,high,low,9,name.com,,,
@@ -955,12 +952,12 @@ c11d416f-7b93-4de6-a9b8-ddc523a36828,generally.restaurant,available,29.99,,mediu
 60d1eb49-3e75-47e1-930d-f2ff8b199414,leaves.restaurant,available,11.98,81.98,low,low,6,namecheap,,,08/09/2026 09:50
 0d36bb9d-4de5-407a-940c-8b0ec8eac7c2,backside.restaurant,available,11.98,81.98,low,low,8,namecheap,,,09/08/2026 10:44
 ee823024-2ef9-4899-b41f-9a6ae01e1c62,tone.restaurant,available,29.99,,medium,low,4,name.com,,,
-b653db31-bbef-4412-aef7-57ed64725759,bow.restaurant,available,29.99,,high,low,3,name.com,,,
-e9a4ca00-36c8-4599-abea-96be2c2cfc44,accepted.restaurant,available,29.99,83.99,high,low,8,name.com,,,
+b653db31-bbef-4412-aef7-57ed64725759,bow.restaurant,available,20.99,64.99,medium,low,3,namesilo,,,23/09/2026 01:50
+e9a4ca00-36c8-4599-abea-96be2c2cfc44,accepted.restaurant,available,20.99,64.99,medium,low,8,namesilo,,,21/09/2026 15:25
 6f8d45d9-85bb-4c33-8bf4-888c57dc199c,pretoria.restaurant,available,29.99,,medium,low,8,name.com,,,
 f1c7f3eb-7590-4c66-abd9-4aa6c3302c2f,dothelaundry.restaurant,available,29.99,,medium,low,14,name.com,,,
 46273216-e529-4732-9004-b4fcd9cb9ddd,polo.restaurant,available,,,high,low,4,,,,
-58a2491f-0ce7-4457-8f82-087d8d35abc9,invigorate.restaurant,available,29.99,,high,low,10,name.com,,,
+58a2491f-0ce7-4457-8f82-087d8d35abc9,invigorate.restaurant,available,20.99,64.99,medium,low,10,namesilo,,,22/09/2026 04:52
 f7acda9c-2d80-4f99-b5a4-2934c13ec1d3,vscogirl.restaurant,available,29.99,,medium,low,9,name.com,,,
 4872a15e-4894-4171-8491-1731d59c4f94,bearsized.restaurant,available,11.98,81.98,low,low,10,namecheap,,,09/08/2026 04:23
 48e9098a-82ec-4e37-8e7c-e4bf09131d0b,bacteremic.restaurant,available,11.98,81.98,low,low,10,namecheap,,,08/08/2026 07:01
@@ -974,7 +971,7 @@ ca27bfac-4ab5-4092-9561-3a2b7228d663,treeofsorrow.restaurant,available,29.99,,lo
 76dff7c1-d2e4-459f-bd37-0b8eb12717dc,rubyred.restaurant,available,11.98,81.98,low,low,8,namecheap,,,10/08/2026 15:08
 ae949592-9727-4879-b9c2-4bdae9399363,rich.restaurant,premium,260,260,low,low,4,namecheap,,,19/09/2026 18:40
 bf86ec4d-e617-4320-9c87-330e8d8a9c6c,chiliad.restaurant,available,11.98,81.98,low,low,7,namecheap,,,
-1c8ef552-8b6f-4154-82a8-ed327075c324,abomb.restaurant,available,29.99,,high,low,6,name.com,,,
+1c8ef552-8b6f-4154-82a8-ed327075c324,abomb.restaurant,available,29.99,,medium,low,6,name.com,,,
 75eaf63f-40df-4bdf-87e4-bb28b4abbfe2,pestering.restaurant,available,11.98,81.98,low,low,9,namecheap,,,
 75dd82e5-51bb-464d-82f7-2f5522b96a94,grayhaired.restaurant,available,29.99,,medium,low,11,name.com,,,
 42cb0d05-3d14-4163-91ba-23f5fc901231,direction.restaurant,available,29.99,,high,low,9,name.com,,,
@@ -995,7 +992,10 @@ f0849c31-3317-4fe3-b217-c48d36c76260,articulary.restaurant,available,11.98,81.98
 e5ed6bef-d30c-47a6-bab1-c23673f3d2fe,allies.restaurant,available,29.99,,high,low,6,name.com,,,
 191ceead-14b3-4379-a960-974554d1307f,threat.restaurant,available,29.99,,medium,low,6,name.com,,,
 6fb5df2e-5b4d-46e9-8f6f-9acd22c34c1a,valuable.restaurant,available,29.99,,high,low,8,name.com,,,
-dc825acc-e85e-4e16-a1c0-e3c29aa6577c,wasted.restaurant,available,29.99,,medium,low,6,name.com,,,
+dc825acc-e85e-4e16-a1c0-e3c29aa6577c,wasted.restaurant,available,20.99,64.99,low,low,6,namesilo,,,22/09/2026 11:10
 819a6df8-ebff-4a3e-b824-940eba2c7758,already.restaurant,available,29.99,,high,low,7,name.com,,,
 cd129665-15c1-4a5d-84eb-4de23d0ac305,calf.restaurant,available,29.99,,high,low,4,name.com,,,
 102a7536-5166-44e4-a672-d83a8916f789,lowly.restaurant,available,11.98,81.98,low,low,5,namecheap,,,08/08/2026 21:38
+a9b6dba8-9228-421f-a080-482207e6029c,iwantmymoneyback.restaurant,available,29.99,,medium,low,20,name.com,,,
+5b6baa6f-2a1e-4381-9430-2ba5942ea352,comfy.restaurant,available,29.99,,high,low,5,name.com,,,
+b3788766-213c-48ab-9653-d46a65ad3afb,hearts.restaurant,available,29.99,,high,low,6,name.com,,,
